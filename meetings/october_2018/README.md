@@ -1,3 +1,3 @@
-#This is a README
+# This is a README
 
-##Testing the formatting.
+## Testing the formatting.
