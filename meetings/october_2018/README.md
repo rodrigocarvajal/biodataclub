@@ -3,7 +3,7 @@
 ## Prerequisites
 * A laptop with an internet connection
 * Install Sourcetree **beta** (supports GitLab) - [Mac Version](https://bitbucket.org/atlassianlabs/sourcetree-betas/downloads/OSX_Beta_Latest.zip) - [Windows Version](https://bitbucket.org/atlassianlabs/sourcetree-betas/downloads/SourceTreeSetup-3.0.5-beta-2178.exe)
-* An [Atlassian account](https://id.atlassian.com/signup). (you will be prompted to create one when installing Sourcetree; you already have one if you have logged in to Stride)
+* An [Atlassian account](https://id.atlassian.com/signup) (you will be prompted to create one when installing Sourcetree; you already have one if you have logged in to Stride)
 * No prior experience with git is needed
 
 ## Meeting
