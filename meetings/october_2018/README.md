@@ -3,7 +3,7 @@
 ## Prerequisites
 * A laptop with an internet connection
 * Install [Sourcetree](https://www.sourcetreeapp.com/) (Mac/Windows)
-    * Keep "Git" checked under "Pick tools to download and install"
+    * Keep "Git" checked under "Pick tools to download and install" (Mercurial is not needed)
     * Keep "Configure automatic line ending handling by default (recommended)" checked
     * If prompted, click "Yes" to the question "Install global ignore file?" 
     * Click "No" to the question "Load SSH key?" (we will handle this during the meeting)
