@@ -21,4 +21,5 @@ Check back for slides.
 * [Setting up an SSH key with GitLab](https://docs.gitlab.com/ee/ssh/) (Mac, Linux, and advanced Windows users)
 * [Configure RStudio and git](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN)
 * Sourcetree **beta** (supports GitLab) - [Mac Version](https://bitbucket.org/atlassianlabs/sourcetree-betas/downloads/OSX_Beta_Latest.zip) - [Windows Version](https://bitbucket.org/atlassianlabs/sourcetree-betas/downloads/SourceTreeSetup-3.0.5-beta-2178.exe)
+* Download [PuTTy](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html), an SSH client for Windows 
 * [Pro Git](https://git-scm.com/book/en/v2), a great, free e-book (also available in print) that gives an introduction to the concepts of git with helpful diagrams.
