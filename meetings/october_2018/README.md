@@ -2,7 +2,7 @@
 
 ## Prerequisites
 * A laptop with an internet connection
-* Install Sourcetree **beta** (supports GitLab) - [Mac Version](https://bitbucket.org/atlassianlabs/sourcetree-betas/downloads/OSX_Beta_Latest.zip) - [Windows Version](https://bitbucket.org/atlassianlabs/sourcetree-betas/downloads/SourceTreeSetup-3.0.5-beta-2178.exe)
+* Install [Sourcetree](https://www.sourcetreeapp.com/) (Mac/Windows)
 * An [Atlassian account](https://id.atlassian.com/signup) (you will be prompted to create one when installing Sourcetree; you already have one if you have logged in to Stride)
 * No prior experience with git is needed
 
@@ -15,6 +15,8 @@ The first portion of the meeting will focus on an introduction to basic concepts
 Check back for slides.
 
 ## Helpful Links
-* [Pro Git](https://git-scm.com/book/en/v2), a great, free e-book (also available in print) that gives an introduction to the concepts of git with helpful diagrams
 * [Setting up an SSH key with GitLab using Sourcetree](https://confluence.atlassian.com/sourcetreekb/generate-and-load-ssh-keys-into-sourcetree-with-putty-790629663.html) (Windows)
 * [Setting up an SSH key with GitLab](https://docs.gitlab.com/ee/ssh/) (Mac, Linux, and advanced Windows users)
+* [Configure RStudio and git](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN)
+* Install Sourcetree **beta** (supports GitLab) - [Mac Version](https://bitbucket.org/atlassianlabs/sourcetree-betas/downloads/OSX_Beta_Latest.zip) - [Windows Version](https://bitbucket.org/atlassianlabs/sourcetree-betas/downloads/SourceTreeSetup-3.0.5-beta-2178.exe)
+* [Pro Git](https://git-scm.com/book/en/v2), a great, free e-book (also available in print) that gives an introduction to the concepts of git with helpful diagrams
