@@ -5,8 +5,8 @@
 * Install [Sourcetree](https://www.sourcetreeapp.com/) (Mac/Windows)
     * Check "Git" under "Pick tools to download and install"
     * Keep "Configure automatic line ending handling by default (recommended)" checked
-    * If prompted, click "Yes" to the question "Install global ignore file?" window
-    * Click "No" to the question "Load SSH key?" window (we will handle this during the meeting)
+    * If prompted, click "Yes" to the question "Install global ignore file?" 
+    * Click "No" to the question "Load SSH key?" (we will handle this during the meeting)
 * An [Atlassian account](https://id.atlassian.com/signup) (you will be prompted to create one when installing Sourcetree; you already have one if you have logged in to Stride)
 * No prior experience with git is needed
 
