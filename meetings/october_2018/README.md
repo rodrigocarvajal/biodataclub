@@ -3,6 +3,7 @@
 ## Prerequisites
 * A laptop with an internet connection
 * Install [Sourcetree](https://www.sourcetreeapp.com/) (Mac/Windows)
+    * Choose "Skip" if prompted to connect an existing account with GitHub/Bitbucket
     * Keep "Git" checked under "Pick tools to download and install" (Mercurial is not needed)
     * Keep "Configure automatic line ending handling by default (recommended)" checked
     * If prompted, click "Yes" to the question "Install global ignore file?" 
