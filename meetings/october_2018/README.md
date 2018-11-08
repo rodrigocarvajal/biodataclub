@@ -1,4 +1,4 @@
-# October 2018 Meeting: Introduction to version control with git
+# October 2018 Meeting: Introduction to version control with git (scroll down for November 2018)
 
 ## Prerequisites
 * A laptop with an internet connection
@@ -25,3 +25,12 @@ The inaugural meeting of the Bio-Data Club will cover version control with git. 
 * Sourcetree **beta** (supports GitLab) - [Mac Version](https://bitbucket.org/atlassianlabs/sourcetree-betas/downloads/OSX_Beta_Latest.zip) - [Windows Version](https://bitbucket.org/atlassianlabs/sourcetree-betas/downloads/SourceTreeSetup-3.0.5-beta-2178.exe)
 * Download [PuTTy](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html), an SSH client for Windows 
 * [Pro Git](https://git-scm.com/book/en/v2), a great, free e-book (also available in print) that gives an introduction to the concepts of git with helpful diagrams.
+
+# November 2018 Meeting: git and remote repositories
+## Prerequisites
+* Same as October 2018. You need a laptop with Sourcetree already installed.
+* If you are not a Moffitt employee or if you cannot connect to the internal Moffitt networks (e.g. hlmdata2), then you will not be able to access the Moffitt Gitlab server (Moffitt-Guest does not work). As an alternative, please set up an account with a provider such as [GitHub](https://github.com/). 
+* Github requires email verification, but the email can take awhile to appear in your Moffitt Inbox (or it gets flagged as spam). Make sure you register and verify your email address ahead of the meeting. 
+
+## Meeting
+Since we ran out of time in the October meeting, this meeting will be dedicated to using remote repositories with git. See [the slides from the October 2018 meeting](https://github.com/pstew/biodataclub/blob/master/meetings/october_2018/bio-data_club_oct_2018.pdf) for instructions on how to set up an SSH key in Windows or [follow these instructions](https://docs.gitlab.com/ee/ssh/) for Mac/Linux.
