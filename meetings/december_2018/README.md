@@ -19,6 +19,7 @@ In preparation for the workshop please download the following Software Programs:
 * Pandoc for Word, html, and PowerPoint reports
     * Comes with RStudio, but need a newer version needed for ppt reports(>=2.0.0)
     * [https://pandoc.org/installing.html](https://pandoc.org/installing.html)
+        * MAC users must also install pandoc-citeproc: `brew install pandoc pandoc-citeproc`
     * Or use installr package in R to download through R
         * installr::install.pandoc()
             * make sure you have admin rights when running this line
