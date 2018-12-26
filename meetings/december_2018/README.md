@@ -2,6 +2,8 @@
 ### William “Jimmy” Fulp 
 ### [William.Fulp@moffitt.org](William.Fulp@moffitt.org)
 ### 12/14/2018
+
+**Meeting slide are posted in this folder**
  
 RMarkdown is a file format for making dynamic documents with R. An RMarkdown document is written in markdown (an easy-to-write plain text format) and contains chunks of embedded R code. The purpose of this workshop is to introduce RMarkdown reports, as well as the custom Moffitt Templates and Functions I’ve written specifically to easily make fancy statistical reports.
  
