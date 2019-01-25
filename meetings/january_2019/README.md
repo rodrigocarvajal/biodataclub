@@ -13,3 +13,7 @@ Few things you will need:
     * tidyverse
     * gapminder
     * To install, open R and paste `install.packages(c("shiny", "tidyverse", "gapminder"))`
+
+## Meeting notes
+* [Old Faithful Shiny example](http://shiny.rstudio.com/gallery/faithful.html)
+* [Link to geyser code](https://github.com/rstudio/shiny-examples/tree/master/083-front-page)
