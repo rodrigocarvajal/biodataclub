@@ -16,4 +16,4 @@ Few things you will need:
 
 ## Meeting notes
 * [Old Faithful Shiny example](http://shiny.rstudio.com/gallery/faithful.html)
-* [Link to geyser code](https://github.com/rstudio/shiny-examples/tree/master/083-front-page)
+* [Link to faithful code](https://github.com/rstudio/shiny-examples/tree/master/083-front-page)
