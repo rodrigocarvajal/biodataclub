@@ -14,6 +14,10 @@ Few things you will need:
     * gapminder
     * To install, open R and paste `install.packages(c("shiny", "tidyverse", "gapminder"))`
 
-## Meeting notes
+### Meeting files
+* [Ram's Shiny slides](https://github.com/pstew/biodataclub/blob/master/meetings/january_2019/january_2019_slides.pdf)
+* [Ram's Shiny example files](https://github.com/pstew/biodataclub/tree/master/meetings/january_2019/app_examples)
+
+### Other meeting notes
 * [Old Faithful Shiny example](http://shiny.rstudio.com/gallery/faithful.html)
 * [Link to faithful code](https://github.com/rstudio/shiny-examples/tree/master/083-front-page)
