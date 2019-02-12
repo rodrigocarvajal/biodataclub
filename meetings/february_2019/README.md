@@ -14,6 +14,6 @@ Requirements:
 * Recent versions of R and RStudio
 * R packages: Rtsne, irlba, rjson
     * paste into your R session: `install.packages(c("Rtsne", "irlba", "rjson"))`
-* Data files
+* Meeting files
     * Please [email Paul Stewart](mailto:paul.stewart@moffitt.org) if you did not receive a Google Drive link via email
 * Chrome browser and a laptop with webgl2 support (most laptops should be okay)
