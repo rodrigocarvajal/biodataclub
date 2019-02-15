@@ -4,9 +4,12 @@
 
 The hands-on part of the meeting. We will do the following things:
 
-1. Compute t-SNE on a toy dataset
-2. Do spectral t-SNE. 
-    * compute PCA 
+1. Compute plain and spectral t-SNE entirely within R on the MNIST example dataset
+   
+      10,000 images of handwritten digits 0-9, 784 pixels each
+      
+2. Do spectral t-SNE on several active research data sets using an interactive web app
+    * Precomputed PCA scores
     * Prepare json object with the PCA scores and sample labels
     * Load json to interact-tsne to view the tsne iterations
 
