@@ -1,4 +1,4 @@
-## Introduction to t-SNE
+## Introduction to t-SNE - [link to meeting slides](https://docs.google.com/presentation/d/1cNyRJRtl6bab2jarF22TUVsGHBSb_HqIT4kCTlzTcfc/edit?usp=sharing)
 ### [Zhihua Chen](mailto:zhihua.chen@moffitt.org)
 ### February 15, 2019
 
@@ -17,3 +17,4 @@ Requirements:
 * Meeting files
     * Please [email Paul Stewart](mailto:paul.stewart@moffitt.org) if you did not receive a Google Drive link via email
 * Chrome browser and a laptop with webgl2 support (most laptops should be okay)
+
