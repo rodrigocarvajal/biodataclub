@@ -1,6 +1,6 @@
 ## Writing RMarkdown Reports and Using Custom Moffitt Templates and Packages
 ### William “Jimmy” Fulp 
-### [mailto:William.Fulp@moffitt.org](William.Fulp@moffitt.org)
+### [William.Fulp@moffitt.org](mailto:William.Fulp@moffitt.org)
 ### 12/14/2018
 
 **Meeting slide are posted [here](https://github.com/pstew/biodataclub/blob/master/meetings/december_2018/RMarkdown%20Workshop%20Dec2018.pptx)**
