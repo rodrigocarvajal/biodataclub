@@ -21,3 +21,7 @@ Requirements:
     * Please [email Paul Stewart](mailto:paul.stewart@moffitt.org) if you did not receive a Google Drive link via email
 * Chrome browser and a laptop with webgl2 support (most laptops should be okay)
 * [Download sample t-SNE R code](https://raw.githubusercontent.com/pstew/biodataclub/master/meetings/february_2019/tsne-tutorial.R)
+
+### Misc meeting notes
+
+[distill.pub how to use t-SNE effectively](https://distill.pub/2016/misread-tsne/)
