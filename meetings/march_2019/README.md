@@ -12,4 +12,5 @@ Pathway enrichment analysis is a [common computational method](https://journals.
 * A laptop with an internet connection.
 * Current versions of [R](https://cloud.r-project.org/) and [RStudio](https://www.rstudio.com/products/rstudio/download/).
     * You will need to install the [enrichR](https://cran.r-project.org/web/packages/enrichR/vignettes/enrichR.html) R package. To do this, first install R and RStudio. Next, open RStudio and find the "Console" window. In this window, type the command: `install.packages('enrichR')`.
+* [Download the sample data](https://raw.githubusercontent.com/pstew/biodataclub/master/meetings/march_2019/sample_data.txt). In most browsers, you can right click on this link and choose "Save As..." to save it to your hard drive.
 * Familiarity with R or any level experience with another programming language is a plus but not required. If you have never programmed before, then you might want to take a look at the first few sections in [this tutorial](https://www.cyclismo.org/tutorial/R/) before the meeting.
