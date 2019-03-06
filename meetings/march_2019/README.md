@@ -1,4 +1,4 @@
-# March 2019 Meeting Automate your pathway enrichment analysis with R
+# March 2019: Automate your pathway enrichment analysis with R
 ## Presenter: [Paul Stewart](mailto:paul.stewart@moffitt.org)
 ### Meeting location
 Date/time: Friday, March 15th @ 2pm
