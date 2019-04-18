@@ -1,5 +1,5 @@
 # March 2019: Introduction to TensorFlow
-## Presenter: [Erin Fowler Clark)](mailto:erin.fowler@moffitt.org)
+## Presenter: [Erin Fowler Clark](mailto:erin.fowler@moffitt.org)
 ### Meeting location
 Date/time: Friday, April 19th @ 2pm
 
