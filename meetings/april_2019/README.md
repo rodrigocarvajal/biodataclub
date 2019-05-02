@@ -14,3 +14,5 @@ Location: [Moffitt Stabile Research Building (SRB)](https://goo.gl/maps/o6j3rtTu
 * If you are not familiar with machine learning or TensorFlow, then it might be helpful to get a better understanding before the meeting. Consider checking out some great videos from a recent [TensorFlow Summit](https://www.youtube.com/playlist?list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN) (thanks to Rodrigo Carvajal for pointing these out).
 
 ### Meeting materials
+* [Meeting slides](https://github.com/pstew/biodataclub/raw/master/meetings/april_2019/Tensorflow.zip)
+* [Meeting code](https://raw.githubusercontent.com/pstew/biodataclub/master/meetings/april_2019/MNIST_program.py)
