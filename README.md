@@ -8,15 +8,15 @@ April 2019: Erin Fowler (TensorFlow)
 
 May 2019: Curtis Combs (Introduction to containers with Docker)
 
-June 2019: Jordan Creed (R maps)
+June 2019: Jordan Creed (karyotypes)
 
-July 2019: TBD
+July 2019: Garrick Aden-Buie
 
 August 2019: TBD
 
 September 2019: TBD
 
-October 2019: TBD
+October 2019: Brett Reid
 
 November 2019: TBD
 
