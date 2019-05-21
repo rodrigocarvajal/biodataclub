@@ -1,4 +1,4 @@
-# May 2019: Introduction to Containers with docker
+# May 2019: Introduction to containers with docker
 ## Presenter: [Curtis Combs](mailto:curtis.combs@moffitt.org)
 ### Meeting location
 Date/time: Friday, May 24th @ 2pm
