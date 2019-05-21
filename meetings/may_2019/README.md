@@ -1,6 +1,7 @@
-# May 2019: Introduction to Containers with Docker
-# May 2019: Introduction to Containers with docker
+# May 2019: Introduction to containers with docker
+
 ## Presenter: [Curtis Combs](mailto:curtis.combs@moffitt.org)
+
 ### Meeting location
 Date/time: Friday, May 24th @ 2pm
 
@@ -11,6 +12,6 @@ This month's meeting will give an introduction to using containers with [docker]
 
 ### Meeting prerequisites
 * A laptop with an internet connection.
-* The latest version of docker - (Mac)[https://docs.docker.com/v17.12/docker-for-mac/install/] - (Windows)[https://docs.docker.com/v17.12/docker-for-windows/install/]
+* The latest version of docker - [for Mac](https://docs.docker.com/v17.12/docker-for-mac/install/) - [for Windows](https://docs.docker.com/v17.12/docker-for-windows/install/)
 
 ### Meeting materials
