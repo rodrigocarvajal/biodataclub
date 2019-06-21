@@ -10,9 +10,9 @@ May 2019: Curtis Combs (Introduction to containers with Docker)
 
 June 2019: Jordan Creed (karyotypes)
 
-July 2019: Garrick Aden-Buie
+July 2019: Garrick Aden-Buie (drake)
 
-August 2019: TBD
+August 2019: Eric Welsh (IRON)
 
 September 2019: TBD
 
@@ -21,3 +21,9 @@ October 2019: Brett Reid
 November 2019: TBD
 
 December 2019: TBD
+
+January 2020: TBD
+
+February 2020: TBD
+
+March 2020: TBD
