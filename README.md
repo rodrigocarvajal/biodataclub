@@ -14,7 +14,7 @@ July 2019: Garrick Aden-Buie (drake)
 
 August 2019: Eric Welsh (IRON)
 
-September 2019: TBD
+September 2019: Guillermo Gonzalez (networking and linux)
 
 October 2019: Brett Reid
 
