@@ -19,4 +19,4 @@ This month's speaker will be talking about karyoplots, a cool way to create line
     * [IdeoViz](https://bioconductor.org/packages/release/bioc/html/IdeoViz.html)
 
 ### Meeting materials
-* [Slides](meetings/june_2019/karyoplotteR.pdf)
+* [Slides](https://github.com/pstew/biodataclub/raw/master/meetings/june_2019/karyoplotteR.pdf)
