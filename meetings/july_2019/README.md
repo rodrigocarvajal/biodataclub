@@ -1,4 +1,13 @@
-## Reproducible Data Workflows
+# July 2019: Reproducible Data Workflows with drake
+
+## Presenter: [Garrick Aden-Buie](mailto:Garrick.Aden-Buie@moffitt.org)
+
+### Meeting location
+Date/time: Friday, July 19th @ 2pm
+
+Location: [Moffitt Stabile Research Building (SRB)](https://goo.gl/maps/o6j3rtTuxCB2), David Murphey Conference Room (1st floor)
+
+### Meeting details
 
 **drake** is an R package that provides a powerful, flexible workflow management tool for reproducible data anaylsis pipelines. **drake** alleviates the pain of managing large (and even small) data analyses, speeding up iteration and development while providing reproducibility guarantees that are essential for modern research.
 
