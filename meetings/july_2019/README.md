@@ -15,6 +15,8 @@ Location: [Moffitt Stabile Research Building (SRB)](https://goo.gl/maps/o6j3rtTu
 
 In this session, we'll learn how to use **drake** to manage a data analysis workflow by writing functions that define the steps of the analysis. We'll then learn how **drake** can keep track of all of these steps, from start to finish, and intelligently update only the outdated steps when your data or code change.
 
+### Meeting prerequisites
+
 We'll work through a few examples together, so please bring a laptop with the **drake** and **visNetwork** packages installed.  (If you don't have a laptop you can share with someone who does at the session.) You would also benefit from installing the **tidyverse** package for the session.
 
 ```r
@@ -26,3 +28,5 @@ install.packages(c("drake", "visNetwork"))
 ```
 
 Note: if you've used **drake** before, please ensure that you have version `7.0.0` or later installed.
+
+### Meeting materials
