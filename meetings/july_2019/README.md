@@ -9,7 +9,7 @@ Location: [Moffitt Stabile Research Building (SRB)](https://goo.gl/maps/o6j3rtTu
 
 ### Meeting details
 
-**drake** is an R package that provides a powerful, flexible workflow management tool for reproducible data anaylsis pipelines. **drake** alleviates the pain of managing large (and even small) data analyses, speeding up iteration and development while providing reproducibility guarantees that are essential for modern research.
+**drake** is an R package that provides a powerful, flexible workflow management tool for reproducible data analysis pipelines. **drake** alleviates the pain of managing large (and even small) data analyses, speeding up iteration and development while providing reproducibility guarantees that are essential for modern research.
 
 <https://ropensci.github.io/drake/>
 
