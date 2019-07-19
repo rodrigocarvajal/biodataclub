@@ -30,3 +30,5 @@ install.packages(c("drake", "visNetwork"))
 Note: if you've used **drake** before, please ensure that you have version `7.0.0` or later installed.
 
 ### Meeting materials
+
+The slides from this talk are available online at <https://pkg.garrickadenbuie.com/drake-intro/> and the drake source code and RStudio project are in available on GitHub at <https://github.com/gadenbuie/drake-intro>. There is also an [RStudio Cloud project](https://rstudio.cloud/project/405721) containing the drake project with all of the required dependencies pre-installed that you can use to explore and run the code from the talk.
