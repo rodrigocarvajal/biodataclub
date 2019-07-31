@@ -18,9 +18,9 @@ September 2019: Guillermo Gonzalez (networking and linux)
 
 October 2019: Brett Reid
 
-November 2019: TBD
+November 2019: Scott Cukras (WDL and Cromwell)
 
-December 2019: TBD
+December 2019: Hackathon!
 
 January 2020: TBD
 
