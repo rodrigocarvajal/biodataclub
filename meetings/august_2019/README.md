@@ -1,4 +1,4 @@
-# July 2019: Reproducible Data Workflows with drake
+# August 2019: Iterative Rank Order Normalization (IRON)
 
 ## Presenter: [Eric Welsh](mailto:eric.welsh@moffitt.org)
 
