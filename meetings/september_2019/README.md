@@ -1,4 +1,4 @@
-# September 2019: Reproducible Data Workflows with drake
+# September 2019: Linux and Networking Basics
 
 ## Presenter: [Guillermo Gonzalez-Calderon](mailto:Guillermo.Gonzalez-Calderon@moffitt.org)
 
