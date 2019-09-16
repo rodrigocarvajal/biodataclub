@@ -10,7 +10,7 @@ Location: [Moffitt Stabile Research Building (SRB)](https://goo.gl/maps/o6j3rtTu
 ### Meeting details
 
 The purpose of this session is to learn the basics of Unix systems, to understand how clients connect to servers (basic networking),
-how we can use linux commands (and regular expressions) to look for specific data, and more useful stuff…
+how we can use linux commands (and regular expressions) to look for specific data, and other useful commands.
  
 For Windows users, they will need to [download PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) to be able to connect to a linux server. They can either download the MSI (‘Windows Installer’) version, or if they don’t have permission to install software, they can download the [standalone version](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html).
 
