@@ -1,6 +1,6 @@
 # September 2019: Reproducible Data Workflows with drake
 
-## Presenter: [Guillermo Gonzalez-Calderon](Guillermo.Gonzalez-Calderon@moffitt.org)
+## Presenter: [Guillermo Gonzalez-Calderon](mailto:Guillermo.Gonzalez-Calderon@moffitt.org)
 
 ### Meeting location
 Date/time: Friday, September 20th @ 2pm
