@@ -14,9 +14,9 @@ July 2019: Garrick Aden-Buie (drake)
 
 August 2019: Eric Welsh (IRON)
 
-September 2019: Guillermo Gonzalez (networking and linux)
+September 2019: Guillermo Gonzalez (networking and linux part 1)
 
-October 2019: Brett Reid
+October 2019: Guillermo Gonzalez (networking and linux part 2)
 
 November 2019: Scott Cukras (WDL and Cromwell)
 
