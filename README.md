@@ -22,7 +22,7 @@ November 2019: Scott Cukras (WDL and Cromwell)
 
 December 2019: Hackathon!
 
-January 2020: TBD
+January 2020: Fredrik Pettersson (Intro to Python)
 
 February 2020: TBD
 
