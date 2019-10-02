@@ -24,6 +24,20 @@ December 2019: Hackathon!
 
 January 2020: Fredrik Pettersson (Intro to Python)
 
-February 2020: TBD
+February 2020: Miguel Betin Montes (Jupyter notebooks)
 
 March 2020: TBD
+
+April 2020: TBD
+
+May 2020: TBD
+
+June 2020: TBD
+
+July 2020: TBD
+
+August 2020: TBD
+
+September 2020: TBD
+
+October 2020: TBD
