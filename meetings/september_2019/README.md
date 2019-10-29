@@ -1,4 +1,4 @@
-# September 2019: Linux and Networking Basics
+# September/October 2019: Linux and Networking Basics
 
 ## Presenter: [Guillermo Gonzalez-Calderon](mailto:Guillermo.Gonzalez-Calderon@moffitt.org)
 
@@ -17,4 +17,5 @@ For Windows users, they will need to [download PuTTY](https://www.chiark.greenen
 Mac users will be able to use the built-in Terminal application.
 
 ### Meeting materials
-* [Meeting slides](https://github.com/pstew/biodataclub/raw/master/meetings/september_2019/Linux%20and%20Networking%20Basics.pptx)
+* [September slides](https://github.com/pstew/biodataclub/raw/master/meetings/september_2019/Linux%20and%20Networking%20Basics.pptx)
+* [October slides](https://github.com/pstew/biodataclub/raw/master/meetings/september_2019/Linux_Basics.pdf)
