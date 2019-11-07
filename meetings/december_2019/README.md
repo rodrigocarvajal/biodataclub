@@ -38,7 +38,7 @@ Registration is required. We need an accurate headcount so we can balance teams,
   - Judges convene briefly to pick the winning project
   - Winners announced, prizes awarded
   - Meeting adjournment
-- **5:30pm - ??** Hackathon celebration at World of Beer
+- **5:30pm - ??** Hackathon celebration at World of Beer (2815 E Fowler Ave, Tampa, FL 33612)
   - Attendance is optional for hackathon participants
   - Participants are responsible for purchasing their own food and beverages
 
