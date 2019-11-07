@@ -29,7 +29,7 @@ Registration is required. We need an accurate headcount so we can balance teams,
 - **5pm - ??** Teams can continue to work on projects into the evening
 
 ### Day 2 (Friday, December 6th, 2019)
-- **9am - 12pm** Work on projects 
+- **9am - 12pm** Work on projects (MRC2-Conference Room 2 or MRC1-1072/Eye Institute Conference Room)
   - Meet your team in your assigned location and start hacking
 - **12pm - 1pm** Lunch will be provided in MRC2-Conference Room 2
 - **1pm - 4pm** Continue work on projects (MRC2-Conference Room 2 or MRC1-1072/Eye Institute Conference Room)
