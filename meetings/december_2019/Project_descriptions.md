@@ -1,6 +1,6 @@
 # Bio-Data Hackathon Projects 
 
-## Efficient, Fast & Accurate compression of large datasets using PCA
+## Efficient, Fast & Accurate compression of large datasets using PCA (Team Lead: Anders Berglund)
 
 BIG DATA is the basis of multiple research projects and initiative at Moffitt Cancer Center (MCC). Examples include the Merck collaboration with more than 10,000 tumors with gene expression, in-house methylation data with more than 850,000 probes measuring the degree of methylation in tumors or more recently the Orien/Avatar data which currently have more than 2,500 samples with both mutation and RNAseq gene expression data. In addition to these in-house data sources, researchers frequently use the 10,000 tumor samples from TCGA to support findings discovered at MCC. These large datasets require efficient, fast and accurate methods in order to make the analysis simple and yet biologically informative.
 Principal Component Analysis (PCA) is a well-established approach for data reduction that is heavily used today, possibly more now than ever. PCA allows researchers to compress large datasets with thousands of variables into a small sub-space, without losing any vital information. In fact, many of the more modern, big-data algorithms, such as t-SNE, use PCA as a first step to compress the data to a manageable number of variables. PCA has been used in many settings, such as (a) assessment and adjustment for batch effects present in ‘omic data, (b) for the use of adjustment of population stratification in GWAS studies, and (c) to summarize gene sets for a gene signatures, such as the 12-Chemokine signature.
@@ -28,7 +28,7 @@ The implementation will be based on my MATLAB code for NIPALS PCA.
 
 **Programming background:** The participant needs to master the language they choose to use. Prior experience of matrix operations using BLAS, Numpy or GSL would also be beneficial.
 
-## Dynamic web visualization tool
+## Dynamic web visualization tool (Team Lead: Guillermo Gonzalez-Calderon)
 
 Create a web application that connects to a server’s API, accesses JSON data, and creates charts with the options such as selecting columns/variables, switching axes, and specifying variables for aggregating data
 
@@ -40,7 +40,7 @@ Create a web application that connects to a server’s API, accesses JSON data, 
 
 **Programming background:** Familiarity with JavaScript. 
 
-## Extending MoffittFunctions
+## Extending MoffittFunctions (Team Lead: Jose Laborde)
 
 The goal is to create a MoffittFunctions template for R Markdown that incorporates Bayesian data analyses comparable to the ones that are currently implemented for non-Bayseian analyses. 
 
@@ -52,7 +52,7 @@ The goal is to create a MoffittFunctions template for R Markdown that incorporat
 
 **Programming background:** Familiarity with Rstudio, Git and Bayseian analysis.
 
-## Extended Heatmaps
+## Extended Heatmaps (Team Lead: Jordan Creed)
 
 Many genomic annotations, such as LD and Hi-C are visualized as heatmaps, however current heatmaps only allow for one type of measurement to be plotted in a heatmap. This project would extend current heatmap visualization options in R by creating 3-D heatmaps and allowing users to plot different annotations along the same x-axis. 
 
