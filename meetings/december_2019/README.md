@@ -2,7 +2,7 @@
 
 ## Hackathon Details
 
-The Moffitt Bio-Data club will be hosting it's first Hackathon on December 5th and 6th. The hackathon will provide particiapnts a chance to work with people from other teams and on other projects than they normally do. Please check out our [projects list](https://github.com/pstew/biodataclub/blob/master/meetings/december_2019/Project_descriptions.md) or just come with your own idea that you would like to work on. [Here is a short article](https://www.rasmussen.edu/degrees/technology/blog/what-is-a-hackathon/) describing what you can expect.
+The Moffitt Bio-Data club will be hosting it's first Hackathon on December 5th and 6th, 2019. The hackathon will provide particiapnts a chance to work with people from other teams and on other projects than they normally do. Please check out our [projects list](https://github.com/pstew/biodataclub/blob/master/meetings/december_2019/Project_descriptions.md) or just come with your own idea that you would like to work on. [Here is a short article](https://www.rasmussen.edu/degrees/technology/blog/what-is-a-hackathon/) describing what you can expect.
 
 ## Registration
 Registration is required. We need an accurate headcount so we can balance teams, send hackathon-related communications, and provide enough food for everyone. Please register by November 30th 2019 or you might not be able to participate. Please register (here (Google Form))[https://forms.gle/84WHZRkcjfPeh4eg7].
@@ -31,3 +31,5 @@ Registration is required. We need an accurate headcount so we can balance teams,
 :clock10: Starting at XX on Thursday and continuing to XX on Friday
 
 Location: [Moffitt Stabile Research Building (SRB)](https://goo.gl/maps/o6j3rtTuxCB2), <some_room>
+
+Final presentations: [Moffitt Stabile Research Building (SRB)](https://goo.gl/maps/o6j3rtTuxCB2), <some_room>
