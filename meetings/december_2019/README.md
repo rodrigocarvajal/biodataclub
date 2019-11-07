@@ -2,7 +2,7 @@
 
 ## Hackathon Details
 
-The Moffitt Bio-Data club will be hosting it's first Hackathon on December 5th and 6th, 2019. The hackathon will provide participants a chance to work with people from other teams and on other projects than they normally do. Please check out our [projects list](https://github.com/pstew/biodataclub/blob/master/meetings/december_2019/Project_descriptions.md) or just come with your own idea that you would like to work on. [Here is a short article](https://www.rasmussen.edu/degrees/technology/blog/what-is-a-hackathon/) describing what you can expect.
+The Moffitt Bio-Data club will be hosting it's first Hackathon on December 5th and 6th, 2019! A hackathon is an event in which participants come together to collaborate intensively on software projects. [Here is a short article](https://www.rasmussen.edu/degrees/technology/blog/what-is-a-hackathon/) describing what you can expect. Please check out our [projects list](https://github.com/pstew/biodataclub/blob/master/meetings/december_2019/Project_descriptions.md), or if you prefer to work independently you can come with your own idea.
 
 Participation is optional. You can sign up for a project linked above or you can work on your own project in the shared space with the rest of the group. We encourage **friendly** competition between teams. Although the team with the best project will receive a prize, every participant is a winner! 
 
@@ -10,7 +10,7 @@ Participation is optional. You can sign up for a project linked above or you can
 Registration is required. We need an accurate headcount so we can balance teams, send hackathon-related communications, and provide enough food for everyone. Please register by November 30th 2019 or you might not be able to participate. Please register [here](https://forms.gle/84WHZRkcjfPeh4eg7).
 
 ## Rules
-- Participants will be broken into teams based on the projects chosen during registration. These teams will be lead by a team leader who submitted their project idea to the hackathon organizing committee. Teams will have approximately 36 hours to develop a deliverable product (e.g. package, new method). 
+- Participants will be placed into teams based on the projects chosen during registration. These teams will be lead by a team leader who submitted their project idea to the hackathon organizing committee. Teams will have approximately 24 hours to develop a deliverable product (e.g. package, new method). 
 - The maximum number of participants per team may need to be capped based on popularity. Preference will be given to early registrants.
 - Each team will have 5 minutes to present their final product on Friday. Product demonstrations or slides will be acceptable.
 - A panel of judges (the BBSR Advisory Committee) will pick the winning project. The winning project will be judged by the following categories:
