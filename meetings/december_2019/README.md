@@ -9,7 +9,7 @@ Registration is required. We need an accurate headcount so we can balance teams,
 
 ## Rules
 - Participants will be broken into teams based on the projects they chose during registration. These teams will be lead by a team leader who submitted their project idea to the hackathon. Teams will have approximately 36 hours to develop a deliverable product (e.g. package, new method). Each team will present hteir work on Friday December 6th at 3pm. 
-  - A panel of judges (the BBSR Advisory Committee) will pick the winning project. The winning project will be judged by the following categories:
+- A panel of judges (the BBSR Advisory Committee) will pick the winning project. The winning project will be judged by the following categories:
   - Reproducibility
   - Impact on Moffitt
   - Usability
