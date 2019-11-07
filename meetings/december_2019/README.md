@@ -42,6 +42,6 @@ Registration is required. We need an accurate headcount so we can balance teams,
   - Attendance is optional for hackathon participants
   - Participants are responsible for purchasing their own food and beverages
 
-### Hackathon Organizing Committee
+## Hackathon Organizing Committee
 Rodrigo Carvajal, Jordan Creed, Guillermo Gonzalez-Calderon, Jose Laborde, Richie Reich, Paul Stewart
 
