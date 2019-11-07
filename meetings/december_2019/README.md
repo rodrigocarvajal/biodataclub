@@ -31,7 +31,7 @@ Registration is required. We need an accurate headcount so we can balance teams,
 ### Day 2 (Friday, December 6th, 2019)
 - **9am - 12pm** Work on projects (MRC2-Conference Room 2 or MRC1-1072/Eye Institute Conference Room)
   - Meet your team in your assigned location and start hacking
-- **12pm - 1pm** Lunch will be provided in MRC2-Conference Room 2
+- **12pm - 1pm** Break for lunch (optional)
 - **1pm - 4pm** Continue work on projects (MRC2-Conference Room 2 or MRC1-1072/Eye Institute Conference Room)
 - **4pm - 5pm** Hackathon Wrap-up (SRB, David Murphey Conference Room)
   - Project demonstrations
