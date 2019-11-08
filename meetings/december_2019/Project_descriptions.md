@@ -1,6 +1,6 @@
 # Bio-Data Hackathon Projects 
 
-## Geolocation Services for Moffitt investigators (Team Lead: Rodrigo Carvajal)
+## Geolocation Services for Moffitt Investigators (Team Lead: Rodrigo Carvajal)
 
 Provide a tool that allows people to upload a list of mailing addresses (including zip codes) or just the zip codes into a web application with the purpose to get back a map with the locations and density.  A more developed implementation would allow to link metadata associated to those locations (i.e. gender, cancer type, insurance status, etc.). Filters could be applied to the metadata.
 
@@ -12,7 +12,7 @@ Provide a tool that allows people to upload a list of mailing addresses (includi
 
 **Programming background:** Familiarity with Java or R (depending of the tool to use).  Java code has been already developed for this purpose. 
 
-## Efficient, Fast & Accurate compression of large datasets using PCA (Team Lead: Anders Berglund)
+## Efficient, Fast & Accurate Compression of Large Datasets using PCA (Team Lead: Anders Berglund)
 
 The goal of this project is to implement the NIPALS (non-linear iterative partial least squares) PCA algorithm in several languages. The project will include the following steps: read data file, error check and handling of missing values, convert to matrix format, remove mean, scale to unit variance (optional), calculate PCA model using NIPALS, calculate relevant statistics, save/export results
 
