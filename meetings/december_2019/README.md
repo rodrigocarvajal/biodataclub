@@ -7,7 +7,7 @@ The Moffitt Bio-Data club will be hosting it's first Hackathon on December 5th a
 Participation is completely optional. Team members are under no obligation to participate. However, this will be a fun event and we encourage everyone to sign up! The event will be very low stakes, and we encourage **friendly** competition between teams. Although the team with the best project will receive a prize, every participant is a winner! 
 
 ## Registration
-Registration is required. We need an accurate headcount so we can balance teams and send hackathon-related communications. Please register by November 30th 2019 or you might not be able to participate. Please register [here](https://forms.gle/84WHZRkcjfPeh4eg7).
+Registration is required. We need an accurate headcount so we can balance teams and send hackathon-related communications. Please register by Monday, December 2nd 2019 or you might not be able to participate. Please register [here](https://forms.gle/84WHZRkcjfPeh4eg7).
 
 ## Rules
 - Participants will be placed into teams based on the projects chosen during registration. These teams will be lead by a team leader who submitted their project idea to the hackathon organizing committee. Teams will have approximately 24 hours to develop a deliverable product (e.g. package, new method). 
