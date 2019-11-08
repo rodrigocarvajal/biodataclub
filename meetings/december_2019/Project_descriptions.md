@@ -48,7 +48,7 @@ The goal is to create a MoffittFunctions template for R Markdown that incorporat
 
 **Programming background:** Familiarity with Rstudio, Git and Bayesian analysis.
 
-## (Team Lead: Steve Sutton)
+## Smoking Cessation Transition Diagrams (Team Lead: Steve Sutton)
 
 In smoking cessation intervention studies, there are measures of smoking status (smoking, abstinent, or missing) at each follow-up assessment. This project would create a SAS Macro or R function that would create figures showing the transitions between assessments based on frequencies. 
 
