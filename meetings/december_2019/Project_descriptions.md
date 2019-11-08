@@ -1,16 +1,16 @@
 # Bio-Data Hackathon Projects 
 
-## Geolocation Services for Moffitt Investigators (Team Lead: Rodrigo Carvajal)
+## Dynamic Web Visualization Tool (Team Lead: Guillermo Gonzalez-Calderon)
 
-Provide a tool that allows people to upload a list of mailing addresses (including zip codes) or just the zip codes into a web application with the purpose to get back a map with the locations and density.  A more developed implementation would allow to link metadata associated to those locations (i.e. gender, cancer type, insurance status, etc.). Filters could be applied to the metadata.
+Create a web application that connects to a server’s API, accesses JSON data, and creates charts with the options such as selecting columns/variables, switching axes, and specifying variables for aggregating data
 
-**Technical specifications:** The front-end should be a JavaScript-based framework.
+**Technical specifications:** The front-end should be a JavaScript-based framework. 
 
-**Impact:** Moffitt investigators will have available a the web application to generate georeferenced plots.
+**Impact:** The final product should generate graphs/charts from any server that provides API’s endpoints with data to create reports.
 
-**Number of participants:** The project would require at least 3 people.
+**Number of participants:** The project would require 1 to 2 people.
 
-**Programming background:** Familiarity with Java or R (depending of the tool to use).  Java code has been already developed for this purpose. 
+**Programming background:** Familiarity with JavaScript. 
 
 ## Efficient, Fast & Accurate Compression of Large Datasets using PCA (Team Lead: Anders Berglund)
 
@@ -24,17 +24,17 @@ The goal of this project is to implement the NIPALS (non-linear iterative partia
 
 **Programming background:** The participant needs to master the language they choose to use. Prior experience of matrix operations using BLAS, Numpy or GSL would also be beneficial.
 
-## Dynamic web visualization tool (Team Lead: Guillermo Gonzalez-Calderon)
+## Extended Heatmaps (Team Lead: Jordan Creed)
 
-Create a web application that connects to a server’s API, accesses JSON data, and creates charts with the options such as selecting columns/variables, switching axes, and specifying variables for aggregating data
+Many genomic annotations, such as LD and Hi-C are visualized as heatmaps, however current heatmaps only allow for one type of measurement to be plotted in a heatmap. This project would extend current heatmap visualization options in R by creating 3-D heatmaps and allowing users to plot different annotations along the same x-axis. 
 
-**Technical specifications:** The front-end should be a JavaScript-based framework. 
+**Technical specifications:** This project will primarily use R and R packages such as the tidyverse and rayshader. 
 
-**Impact:** The final product should generate graphs/charts from any server that provides API’s endpoints with data to create reports.
+**Impact:** This project will provide an extension of current heatmap visualization in R and will be made available through GitHub. 
 
-**Number of participants:** The project would require 1 to 2 people.
+**Number of participants:** This project would require at least 3 people including a person working on: combining matrices, and creating static and 3-D visuals. 
 
-**Programming background:** Familiarity with JavaScript. 
+**Programming background:** Knowledge of R package creation and current heatmap packages would be beneficial. 
 
 ## Extending MoffittFunctions (Team Lead: Jose Laborde)
 
@@ -48,6 +48,18 @@ The goal is to create a MoffittFunctions template for R Markdown that incorporat
 
 **Programming background:** Familiarity with Rstudio, Git and Bayesian analysis.
 
+## Geolocation Services for Moffitt Investigators (Team Lead: Rodrigo Carvajal)
+
+Provide a tool that allows people to upload a list of mailing addresses (including zip codes) or just the zip codes into a web application with the purpose to get back a map with the locations and density.  A more developed implementation would allow to link metadata associated to those locations (i.e. gender, cancer type, insurance status, etc.). Filters could be applied to the metadata.
+
+**Technical specifications:** The front-end should be a JavaScript-based framework.
+
+**Impact:** Moffitt investigators will have available a the web application to generate georeferenced plots.
+
+**Number of participants:** The project would require at least 3 people.
+
+**Programming background:** Familiarity with Java or R (depending of the tool to use).  Java code has been already developed for this purpose. 
+
 ## Smoking Cessation Transition Diagrams (Team Lead: Steve Sutton)
 
 In smoking cessation intervention studies, there are measures of smoking status (smoking, abstinent, or missing) at each follow-up assessment. This project would create a SAS Macro or R function that would create figures showing the transitions between assessments based on frequencies. 
@@ -59,15 +71,3 @@ In smoking cessation intervention studies, there are measures of smoking status 
 **Number of participants:** 2 or more
 
 **Programming background:** Familiarity with SAS or R. 
-
-## Extended Heatmaps (Team Lead: Jordan Creed)
-
-Many genomic annotations, such as LD and Hi-C are visualized as heatmaps, however current heatmaps only allow for one type of measurement to be plotted in a heatmap. This project would extend current heatmap visualization options in R by creating 3-D heatmaps and allowing users to plot different annotations along the same x-axis. 
-
-**Technical specifications:** This project will primarily use R and R packages such as the tidyverse and rayshader. 
-
-**Impact:** This project will provide an extension of current heatmap visualization in R and will be made available through GitHub. 
-
-**Number of participants:** This project would require at least 3 people including a person working on: combining matrices, and creating static and 3-D visuals. 
-
-**Programming background:** Knowledge of R package creation and current heatmap packages would be beneficial. 
