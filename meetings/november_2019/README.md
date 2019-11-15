@@ -17,6 +17,6 @@ To follow along, you will need the Cromwell jar file downloaded: https://github.
 
 ### Meeting Materials
 
-### Announcements
+### [Announcements](https://github.com/pstew/biodataclub/raw/master/meetings/november_2019/november_2019_announcements.pptx)
 * [First annual hackathon this December!](https://github.com/pstew/biodataclub/tree/master/meetings/december_2019)
 * [USF Computational Biology Symposium also in December](https://www.eventbrite.com/e/2019-iscb-student-regional-group-southeast-usa-computational-biology-symposium-tickets-59010697585)
