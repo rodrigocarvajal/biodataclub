@@ -71,3 +71,15 @@ In smoking cessation intervention studies, there are measures of smoking status 
 **Number of participants:** 2 or more
 
 **Programming background:** Familiarity with SAS or R. 
+
+## Cloud Platform Dashboard Design (Team Lead: Rachel Howard)
+ 
+Create an Rshiny prototype for the first Google Cloud Platform (GCP) interactive dashboard. A dummy dataset matching the characteristics of the Personalized Medicine curated data mart will be created and stored in Google BigQuery. The app will read data directly from BigQuery and allow for basic cohort building and data visualization (including comparison of survival curves between patient subgroups and individual patient clinical timelines).
+ 
+**Technical specifications:** Participants will need access to R and a Google Cloud account.
+ 
+**Impact:** We will create an initial template for a GCP dashboard that will be used by the Personalized Medicine Clinical Service to facilitate their daily clinical operations.
+ 
+**Number of participants:** 1 or more
+ 
+**Programming background:** Experience with R and/or GCP beneficial but not required.
