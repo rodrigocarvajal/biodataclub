@@ -31,14 +31,14 @@ Registration is required. We need an accurate headcount so we can balance teams 
 ### Day 2 (Friday, December 6th, 2019)
 - **9am - 12pm** Work on projects (MRC2-Conference Room 2 or MRC1-1072/Eye Institute Conference Room)
   - Meet your team in your assigned location and start hacking
-- **12pm - 1pm** Break for lunch (optional)
-- **1pm - 4pm** Continue work on projects (MRC2-Conference Room 2 or MRC1-1072/Eye Institute Conference Room)
-- **4pm - 5pm** Hackathon Wrap-up (SRB, David Murphey Conference Room)
+- **12pm - 1pm** Pick up boxed lunches (MRC2-Conference Room 2; generously provided by the Department of Biostatistics and Bioinformatics)
+- **1pm - 3pm** Continue work on projects (MRC2-Conference Room 2 or MRC1-1072/Eye Institute Conference Room)
+- **3pm - 4:30pm** Hackathon Wrap-up (SRB, David Murphey Conference Room)
   - Project demonstrations
   - Judges convene briefly to pick the winning project
   - Winners announced, prizes awarded
   - Meeting adjournment
-- **5:30pm - ??** Hackathon celebration at World of Beer (2815 E Fowler Ave, Tampa, FL 33612)
+- **5:00pm - ??** Hackathon celebration at World of Beer (2815 E Fowler Ave, Tampa, FL 33612)
   - Attendance is optional for hackathon participants
   - Participants are responsible for purchasing their own food and beverages
 
