@@ -13,7 +13,7 @@ Registration is required. We need an accurate headcount so we can balance teams 
 - Participants will be placed into teams based on the projects chosen during registration. These teams will be lead by a team leader who submitted their project idea to the hackathon organizing committee. Teams will have approximately 24 hours to develop a deliverable product (e.g. package, new method). 
 - The maximum number of participants per team may need to be capped based on popularity. Preference will be given to early registrants.
 - Each team will have 5 minutes to present their final product on Friday. Product demonstrations or slides will be acceptable.
-- A panel of judges (the BBSR Advisory Committee) will pick the winning project. The winning project will be judged by the following categories:
+- A panel of judges (Drs. John Koomen, Dana Rollison, John Schatzle, and AC Tan) will pick the winning project. The winning project will be judged by the following categories:
   - Reproducibility
   - Impact on Moffitt
   - Usability
@@ -23,22 +23,24 @@ Registration is required. We need an accurate headcount so we can balance teams 
 ## Agenda and Locations
 
 ### Day 1 (Thursday December 5th, 2019)
-- **2pm - 3pm** Hackathon Kickoff (SRB, Ferman Family Conference Room)
+- **3pm - 4pm** Hackathon Kickoff (SRB, Ferman Family Conference Room)
   - Introduce teams and projects
-  - Split up in to teams and begin planning and/or hacking
-- **3pm - ??** Teams can continue to work on projects into the evening
+  - Break into teams and begin planning and hacking
+- **4pm - ??** Teams continue to work on projects
 
 ### Day 2 (Friday, December 6th, 2019)
-- **9am - 12pm** Work on projects (MRC2-Conference Room 2 or MRC1-1072/Eye Institute Conference Room)
+- **9am - 12pm** Continue work on projects (MRC2-Conference Room 2,  MRC1-1072/Eye Institute Conference Room, and MRC4084)
   - Meet your team in your assigned location and start hacking
-- **12pm - 1pm** Pick up boxed lunches (MRC2-Conference Room 2; generously provided by the Department of Biostatistics and Bioinformatics)
-- **1pm - 3pm** Continue work on projects (MRC2-Conference Room 2 or MRC1-1072/Eye Institute Conference Room)
+  - Multiple meeting rooms have been reserved for the hackathon. Feel free to utilize them if needed. 
+  - Note that MRC4084 is only available until 1:45pm.
+- **12pm** Pick up boxed lunches (MRC2-Conference Room 2; generously provided by the Department of Biostatistics and Bioinformatics)
+- **12pm - 3pm** Continue work on projects (MRC2-Conference Room 2,  MRC1-1072/Eye Institute Conference Room, and MRC4084)
 - **3pm - 4:30pm** Hackathon Wrap-up (SRB, David Murphey Conference Room)
   - Project demonstrations
   - Judges convene briefly to pick the winning project
   - Winners announced, prizes awarded
   - Meeting adjournment
-- **5:00pm - 6:00pm** Hackathon celebration at World of Beer (2815 E Fowler Ave, Tampa, FL 33612)
+- **5pm - 6pm** Hackathon celebration at World of Beer (2815 E Fowler Ave, Tampa, FL 33612)
   - Attendance is optional for hackathon participants
   - Participants are responsible for purchasing their own food and beverages
 
