@@ -23,10 +23,10 @@ Registration is required. We need an accurate headcount so we can balance teams 
 ## Agenda and Locations
 
 ### Day 1 (Thursday December 5th, 2019)
-- **3pm - 5pm** Hackathon Kickoff (SRB, Ferman Family Conference Room)
+- **2pm - 3pm** Hackathon Kickoff (SRB, Ferman Family Conference Room)
   - Introduce teams and projects
   - Split up in to teams and begin planning and/or hacking
-- **5pm - ??** Teams can continue to work on projects into the evening
+- **3pm - ??** Teams can continue to work on projects into the evening
 
 ### Day 2 (Friday, December 6th, 2019)
 - **9am - 12pm** Work on projects (MRC2-Conference Room 2 or MRC1-1072/Eye Institute Conference Room)
@@ -38,7 +38,7 @@ Registration is required. We need an accurate headcount so we can balance teams 
   - Judges convene briefly to pick the winning project
   - Winners announced, prizes awarded
   - Meeting adjournment
-- **5:00pm - ??** Hackathon celebration at World of Beer (2815 E Fowler Ave, Tampa, FL 33612)
+- **5:00pm - 6:00pm** Hackathon celebration at World of Beer (2815 E Fowler Ave, Tampa, FL 33612)
   - Attendance is optional for hackathon participants
   - Participants are responsible for purchasing their own food and beverages
 
