@@ -30,9 +30,9 @@ Registration is required. We need an accurate headcount so we can balance teams 
 
 ### Day 2 (Friday, December 6th, 2019)
 - **9am - 12pm** Continue work on projects (MRC2-Conference Room 2,  MRC1-1072/Eye Institute Conference Room, and MRC4084)
-  - Meet your team in your assigned location and start hacking
-  - Multiple meeting rooms have been reserved for the hackathon. Feel free to utilize them if needed. 
-  - Note that MRC4084 is only available until 1:45pm.
+  - Meet back up with your team and continue hacking. 
+  - Multiple meeting rooms have been reserved for the hackathon. Feel free to utilize them as needed. 
+  - MRC4084 is only available until 1:45pm.
 - **12pm** Pick up boxed lunches (MRC2-Conference Room 2; generously provided by the Department of Biostatistics and Bioinformatics)
 - **12pm - 3pm** Continue work on projects (MRC2-Conference Room 2,  MRC1-1072/Eye Institute Conference Room, and MRC4084)
 - **3pm - 4:30pm** Hackathon Wrap-up (SRB, David Murphey Conference Room)
