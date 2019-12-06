@@ -36,18 +36,6 @@ Many genomic annotations, such as LD and Hi-C are visualized as heatmaps, howeve
 
 **Programming background:** Knowledge of R package creation and current heatmap packages would be beneficial. 
 
-## Extending MoffittFunctions (Team Lead: Jose Laborde)
-
-The goal is to create a MoffittFunctions template for R Markdown that incorporates Bayesian data analyses comparable to the ones that are currently implemented for non-Bayesian analyses.
-
-**Technical specifications:** Participants will need access to GitLab, Rstudio, Rstan, and Bayesian libraries such as: rethinking, bayesplot, rstanarm, and brms.
-
-**Impact:** Enhanced reproducibility and better research practices by providing options for utilizing Bayesian tools that have been incorporated to the MoffittFunctions repo.
-
-**Number of participants:** This project would require at least 3 people including: a person knowledgeable in modifying the MoffittFunctions repo, a person with git abilities who understands the current template, a person with general Bayesian and non-Bayesian statistical knowledge.
-
-**Programming background:** Familiarity with Rstudio, Git and Bayesian analysis.
-
 ## Geolocation Services for Moffitt Investigators (Team Lead: Rodrigo Carvajal)
 
 Provide a tool that allows people to upload a list of mailing addresses (including zip codes) or just the zip codes into a web application with the purpose to get back a map with the locations and density.  A more developed implementation would allow to link metadata associated to those locations (i.e. gender, cancer type, insurance status, etc.). Filters could be applied to the metadata.
