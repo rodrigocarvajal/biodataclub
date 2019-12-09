@@ -1,5 +1,11 @@
 # December 2019: The First Annual Bio-Data Club Hackathon
 
+## Best Project
+
+Congratulations to Guillermo Gonzalez-Calderon (team leader) and Rhoda Gai-Cherry for having their project chosen by the judges as best project!
+
+
+
 ## Hackathon Details
 
 The Moffitt Bio-Data club will be hosting it's first Hackathon on December 5th and 6th, 2019! A hackathon is an event in which participants come together to collaborate intensively on software projects. [Here is a short article](https://www.rasmussen.edu/degrees/technology/blog/what-is-a-hackathon/) describing what you can expect. Please check out our [projects list](https://github.com/pstew/biodataclub/blob/master/meetings/december_2019/Project_descriptions.md), or if you prefer to work independently, then you can come with your own idea and work on it in the shared hackathon space.
