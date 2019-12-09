@@ -4,7 +4,7 @@
 
 Congratulations to Guillermo Gonzalez-Calderon (team leader) and Rhoda Gai-Cherry for having their project chosen by the judges as best project!
 
-
+![image](winners.png)
 
 ## Hackathon Details
 
