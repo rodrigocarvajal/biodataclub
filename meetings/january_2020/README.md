@@ -28,3 +28,4 @@ with examples on:
 * [Anaconda](https://www.anaconda.com/distribution/) 
 
 ### Meeting Materials
+* [Presentation files](https://github.com/pstew/biodataclub/raw/master/meetings/january_2020/biodataclub_python-master.zip)
