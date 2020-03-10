@@ -28,7 +28,7 @@ February 2020: Fredrik Pettersson (Intro to Python part 2)
 
 March 2020: Miguel Betin Montes (Jupyter notebooks)
 
-April 2020: TBD
+April 2020: Jordan Creed (TBD)
 
 May 2020: TBD
 
