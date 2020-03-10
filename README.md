@@ -41,3 +41,7 @@ August 2020: TBD
 September 2020: TBD
 
 October 2020: TBD
+
+November 2020: TBD
+
+December 2020: Second Annual Hackathon
