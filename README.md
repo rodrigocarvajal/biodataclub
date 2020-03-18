@@ -30,9 +30,9 @@ March 2020: Miguel Betin Montes (Jupyter notebooks)
 
 April 2020: Jordan Creed (TBD)
 
-May 2020: TBD
+May 2020: Zhihua Chen (scRNA-seq visualization tool)
 
-June 2020: Travis Gerke
+June 2020: Travis Gerke (TBD)
 
 July 2020: TBD
 
