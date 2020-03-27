@@ -25,4 +25,6 @@ Credentials to log in will be provided.
 * Basic python knowledge in python would be nice but not mandatory.
 
 ### Meeting Materials
+* [Meeting slides](https://github.com/pstew/biodataclub/raw/master/meetings/march_2020/jupyter-%20BDC.pptx)
+* [Notebook used during presentation](https://github.com/pstew/biodataclub/raw/master/meetings/march_2020/Bio%20Data%20Club%2003-27-2020.ipynb)
 
