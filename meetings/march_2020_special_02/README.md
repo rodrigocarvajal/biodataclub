@@ -21,4 +21,4 @@ If you want to learn how to overcome those issues, please join us tomorrow Wedne
 Special thanks to Rodrigo Carvajal, Scott Cukras, Steven Eschrich, Guillermo Gonzalez-Calderon, Fredrik Pettersson, Phillip Szepietowski, and Jamie Teer for helping to organize and make this happen.
 
 ### Meeting Materials
-* 
+* [Meeting slides](https://github.com/pstew/biodataclub/raw/master/meetings/march_2020_special_02/conda_intro_2020_03_25.pptx)
