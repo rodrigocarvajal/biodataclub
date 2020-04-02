@@ -28,13 +28,13 @@ February 2020: Fredrik Pettersson (Intro to Python part 2)
 
 March 2020: Miguel Betin Montes (Jupyter notebooks)
 
-April 2020: Jordan Creed (TBD)
+April 2020: Paul Stewart (version control with git refresher)
 
 May 2020: Zhihua Chen (scRNA-seq visualization tool)
 
 June 2020: Travis Gerke (TBD)
 
-July 2020: TBD
+July 2020: Jordan Creed (Build your own R package)
 
 August 2020: TBD
 
