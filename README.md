@@ -40,7 +40,7 @@ August 2020: Ram Thapa (ggplot2)
 
 September 2020: TBD
 
-October 2020: TBD
+October 2020: Jose Laborde Navas (TBD)
 
 November 2020: TBD
 
