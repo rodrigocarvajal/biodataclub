@@ -36,7 +36,7 @@ June 2020: Travis Gerke (TBD)
 
 July 2020: Jordan Creed (Build your own R package)
 
-August 2020: TBD
+August 2020: Ram Thapa (ggplot2)
 
 September 2020: TBD
 
