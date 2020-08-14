@@ -1,6 +1,6 @@
 # August 2020: Introduction to ggplot2
 
-## Presenter: [Ram Thapa](mailto:ram.thapa@moffitt.org>)
+## Presenter: [Ram Thapa](mailto:ram.thapa@moffitt.org)
 
 ### Location
 Date/time: Friday, August 21st @ 2pm
