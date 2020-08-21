@@ -18,7 +18,8 @@ Data visualization is important in most phases of data analysis workflow and bei
  
 
 ### Pre-requisites
-Please make sure you have `tidyverse` and `palmerpenguins` R packages installed before the talk. I will be using penguins data from `palmerpenguins` package for the talk (more information about the data at [https://github.com/allisonhorst/palmerpenguins](https://github.com/allisonhorst/palmerpenguins)).
+Please make sure you have `tidyverse`, `patchwork`, `ggridges`, and `palmerpenguins` 
+R packages installed before the talk. I will be using penguins data from `palmerpenguins` package for the talk (more information about the data at [https://github.com/allisonhorst/palmerpenguins](https://github.com/allisonhorst/palmerpenguins)).
 
 
 ### Meeting Materials
