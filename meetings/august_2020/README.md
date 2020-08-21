@@ -22,4 +22,4 @@ Please make sure you have `tidyverse`, `patchwork`, `ggridges`, and `palmerpengu
 
 
 ### Meeting Materials
-* 
+* [Examples](https://raw.githubusercontent.com/pstew/biodataclub/master/meetings/august_2020/examples.RMD)
