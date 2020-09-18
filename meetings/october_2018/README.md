@@ -15,7 +15,9 @@
 The inaugural meeting of the Bio-Data Club will cover version control with git. The meeting will be hands-on, so make sure to bring a laptop with an internet connection and Sourcetree installed. We will begin with a brief introduction to the concepts of git and then move on to some hands-on learning (no prior experience needed). At the end of the meeting, you will know how to create a repository, commit changes, and push/pull changes from a remote repository. 
 
 ## Meeting Files  
-[Slides from October 2018 meeting](https://github.com/pstew/biodataclub/blob/master/meetings/october_2018/bio-data_club_oct_2018.pdf) (includes initial presentation on git concepts and Windows Sourcetree SSH key how-to)
+* [Slides from October 2018 meeting](https://github.com/pstew/biodataclub/blob/master/meetings/october_2018/bio-data_club_oct_2018.pdf) (includes initial presentation on git concepts and Windows Sourcetree SSH key how-to)
+* [Part 1 of training (recorded in 2020)](https://moffitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1aa2696f-c222-44d6-a06d-ac17010c1b6d)
+* [Part 2 of training (recorded in 2020)](https://moffitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e69faab7-ac22-4446-bece-ac2c010b3c4e)
 
 ## Helpful Links
 * [Setting up an SSH key with GitLab using Sourcetree](https://confluence.atlassian.com/sourcetreekb/generate-and-load-ssh-keys-into-sourcetree-with-putty-790629663.html) (Windows)
