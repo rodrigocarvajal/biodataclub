@@ -3,7 +3,6 @@
 ### [William.Fulp@moffitt.org](mailto:William.Fulp@moffitt.org)
 ### 12/14/2018
 
-**Meeting slide are posted [here](https://github.com/pstew/biodataclub/blob/master/meetings/december_2018/RMarkdown%20Workshop%20Dec2018.pptx)**
  
 RMarkdown is a file format for making dynamic documents with R. An RMarkdown document is written in markdown (an easy-to-write plain text format) and contains chunks of embedded R code. The purpose of this workshop is to introduce RMarkdown reports, as well as the custom Moffitt Templates and Functions I’ve written specifically to easily make fancy statistical reports.
  
@@ -31,3 +30,6 @@ In preparation for the workshop please download the following Software Programs:
     * If you already have MikTex installed no need to install tinytex
  
 Once you have everything installed reach out to me and I can come by to confirm everything is working correctly.
+
+###  Meeting Materials
+* Meeting slides are posted [here](RMarkdown%20Workshop%20Dec2018.pptx).

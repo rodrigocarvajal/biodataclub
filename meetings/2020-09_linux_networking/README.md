@@ -17,5 +17,5 @@ For Windows users, they will need to [download PuTTY](https://www.chiark.greenen
 Mac users will be able to use the built-in Terminal application.
 
 ### Meeting materials
-* [September slides](https://github.com/pstew/biodataclub/raw/master/meetings/september_2019/Linux%20and%20Networking%20Basics.pptx)
-* [October slides](https://github.com/pstew/biodataclub/raw/master/meetings/september_2019/Linux_Basics.pdf)
+* [September slides](Linux%20and%20Networking%20Basics.pptx)
+* [October slides](Linux_Basics.pdf)

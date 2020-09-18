@@ -15,4 +15,4 @@ This month's meeting will give an introduction to using containers with [docker]
 * The latest version of docker - [for Mac](https://docs.docker.com/v17.12/docker-for-mac/install/) - [for Windows](https://docs.docker.com/v17.12/docker-for-windows/install/)
 
 ### Meeting materials
-* [Meeting slides](https://github.com/pstew/biodataclub/raw/master/meetings/may_2019/Docker%20Presentation.pdf)
+* [Meeting slides](Docker%20Presentation.pdf)

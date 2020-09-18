@@ -14,5 +14,5 @@ The IRON paper can be found [here](https://bmcbioinformatics.biomedcentral.com/a
 
 ### Meeting materials
 
-* [IRON example (command line script)](https://github.com/pstew/biodataclub/raw/master/meetings/august_2019/go_agilent_example.sh)
-* [Slides](https://github.com/pstew/biodataclub/blob/master/meetings/august_2019/iron_biodata_club_talk.pptx?raw=true)
+* [IRON example (command line script)](go_agilent_example.sh)
+* [Slides](iron_biodata_club_talk.pptx)

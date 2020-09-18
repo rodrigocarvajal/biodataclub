@@ -16,6 +16,6 @@ Pathway enrichment analysis is a [common computational method](https://journals.
 * Familiarity with R or any level experience with another programming language is a plus but not required. If you have never programmed before, then you might want to take a look at the first few sections in [this tutorial](https://www.cyclismo.org/tutorial/R/) before the meeting.
 
 ### Meeting materials
-* [Meeting slides](https://github.com/pstew/biodataclub/blob/master/meetings/march_2019/biodata_2019-03-14.pdf)
-* [Meeting code](https://github.com/pstew/biodataclub/blob/master/meetings/march_2019/march_2019_R_code.R)
-* [Meeting RData](https://github.com/pstew/biodataclub/blob/master/meetings/march_2019/march2019_R_data.RData)
+* [Meeting slides](biodata_2019-03-14.pdf)
+* [Meeting code](march_2019_R_code.R)
+* [Meeting RData](march2019_R_data.RData)

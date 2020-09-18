@@ -19,6 +19,6 @@ This month's meeting will feature [Cromwell and WDL](https://software.broadinsti
 
 ### Meeting Materials
 
-### [Announcements](https://github.com/pstew/biodataclub/raw/master/meetings/november_2019/november_2019_announcements.pptx)
-* [First annual hackathon this December!](https://github.com/pstew/biodataclub/tree/master/meetings/december_2019)
+### [Announcements](november_2019_announcements.pptx)
+* [First annual hackathon this December!](https://github.com/pstew/biodataclub/tree/master/meetings/2019-12_hackathon)
 * [USF Computational Biology Symposium also in December](https://www.eventbrite.com/e/2019-iscb-student-regional-group-southeast-usa-computational-biology-symposium-tickets-59010697585)

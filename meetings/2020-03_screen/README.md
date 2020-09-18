@@ -11,4 +11,4 @@ From [https://linuxize.com/post/how-to-use-linux-screen/](https://linuxize.com/p
 > Have you ever faced the situation where you perform a long-running task on a remote machine, and suddenly your connection drops, the SSH session is terminated, and your work is lost. Well, it has happened to all of us at some point, hasn’t it? Luckily, there is a utility called screen that allows us to resume the sessions.
 
 ### Meeting Materials
-* [Meeting slides](https://github.com/pstew/biodataclub/raw/master/meetings/march_2020_special_01/screen_primer_2020_03_19.pptx)
+* [Meeting slides](screen_primer_2020_03_19.pptx)
