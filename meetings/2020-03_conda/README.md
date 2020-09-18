@@ -1,4 +1,4 @@
-# March 2020: Jupyter Notebooks
+# March 2020: conda
 
 ## Presenters: [Phillip Szepietowski](mailto:Phillip.Szepietowski@moffitt.org) and [Guillermo Gonzalez-Calderon](mailto:Guillermo.Gonzalez-Calderon@moffitt.org)
 
