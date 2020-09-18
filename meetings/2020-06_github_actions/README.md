@@ -22,4 +22,4 @@ Prerequisites include a GitHub account and RStudio; if you want to reproduce my 
 
 
 ### Meeting Materials
-* 
+* [Meeting presentation (https://github.com/tgerke/github-actions-with-r)](https://github.com/tgerke/github-actions-with-r)
