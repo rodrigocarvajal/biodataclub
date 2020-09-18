@@ -22,5 +22,5 @@ Please make sure you have `tidyverse`, `patchwork`, `ggridges`, and `palmerpengu
 
 
 ### Meeting Materials
-* [Examples](https://raw.githubusercontent.com/pstew/biodataclub/master/meetings/august_2020/examples.RMD)
+* [Examples](examples.RMD)
 * [Video recording](https://moffitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=377bb530-4383-4352-93dc-ac1e013b0ffb)
