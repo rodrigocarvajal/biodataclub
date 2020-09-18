@@ -1,5 +1,5 @@
 ## The Moffitt Bio-Data Club
-You are probably looking for the club page found here [https://pstew.github.io/biodataclub/](https://pstew.github.io/biodataclub/).
+[https://www.biodataclub.org/](https://www.biodataclub.org/)
 
 ### Tentative schedule:
 January 2020: Fredrik Pettersson (Intro to Python)
@@ -25,3 +25,9 @@ October 2020: Jose Laborde Navas (TBD)
 November 2020: Fredrik Pettersson (Introduction to Julia)
 
 December 2020: Second Annual Hackathon
+
+January 2021: TBD
+
+February 2021: TBD
+
+March 2021: TBD
