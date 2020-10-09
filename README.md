@@ -20,7 +20,7 @@ August 2020: Ram Thapa (ggplot2)
 
 September 2020: Richie Reich (TBD)
 
-October 2020: Jose Laborde Navas (TBD)
+October 2020: Jose Laborde Navas (Bayesian Analysis in R using High Level Stan-dependent Libraries)
 
 November 2020: Fredrik Pettersson (Introduction to Julia)
 
