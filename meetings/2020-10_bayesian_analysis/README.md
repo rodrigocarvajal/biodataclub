@@ -13,6 +13,12 @@ Meeting ID:	986 6782 0009
 
 Telephone:	+1 646 876 9923
 
+### Details
+What we will learn:
+* Use RStanArm’s functionality to model a multiple regression using stan_glm.
+* Use bayesplot to visualize the estimation’s results.
+* Use bayestestR to look at the inference results.
+
 ### Pre-requisites
 The packages we will need:
  
