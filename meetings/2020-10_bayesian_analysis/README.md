@@ -13,11 +13,18 @@ Meeting ID:	986 6782 0009
 
 Telephone:	+1 646 876 9923
 
-### Details
-
-
 ### Pre-requisites
+The packages we will need:
+ 
+Essential for this talk:
+* RStan https://mc-stan.org/users/interfaces/rstan
+* RStanArm https://mc-stan.org/users/interfaces/rstanarm
+* bayesplot https://mc-stan.org/users/interfaces/bayesplot
+* bayestestR https://easystats.github.io/bayestestR/index.html
 
+Other alternatives
+* BayesFactor https://richarddmorey.github.io/BayesFactor/
+* brms https://paul-buerkner.github.io/brms/
 
 
 ### Meeting Materials
