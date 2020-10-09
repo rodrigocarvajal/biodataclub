@@ -20,8 +20,6 @@ What we will learn:
 * Use `bayestestR` to look at the inference results.
 
 ### Pre-requisites
-The packages we will need:
- 
 Essential for this talk:
 * `RStan` https://mc-stan.org/users/interfaces/rstan
 * `RStanArm` https://mc-stan.org/users/interfaces/rstanarm
@@ -31,7 +29,6 @@ Essential for this talk:
 Other alternatives
 * `BayesFactor` https://richarddmorey.github.io/BayesFactor/
 * `brms` https://paul-buerkner.github.io/brms/
-
 
 ### Meeting Materials
 * 
