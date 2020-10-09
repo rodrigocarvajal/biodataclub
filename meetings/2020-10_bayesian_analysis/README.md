@@ -15,22 +15,22 @@ Telephone:	+1 646 876 9923
 
 ### Details
 What we will learn:
-* Use RStanArm’s functionality to model a statistical analysis using stan_glm.
-* Use bayesplot to visualize the estimation’s results.
-* Use bayestestR to look at the inference results.
+* Use `RStanArm`’s functionality to model a statistical analysis using stan_glm.
+* Use `bayesplot` to visualize the estimation’s results.
+* Use `bayestestR` to look at the inference results.
 
 ### Pre-requisites
 The packages we will need:
  
 Essential for this talk:
-* RStan https://mc-stan.org/users/interfaces/rstan
-* RStanArm https://mc-stan.org/users/interfaces/rstanarm
-* bayesplot https://mc-stan.org/users/interfaces/bayesplot
-* bayestestR https://easystats.github.io/bayestestR/index.html
+* `RStan` https://mc-stan.org/users/interfaces/rstan
+* `RStanArm` https://mc-stan.org/users/interfaces/rstanarm
+* `bayesplot` https://mc-stan.org/users/interfaces/bayesplot
+* `bayestestR` https://easystats.github.io/bayestestR/index.html
 
 Other alternatives
-* BayesFactor https://richarddmorey.github.io/BayesFactor/
-* brms https://paul-buerkner.github.io/brms/
+* `BayesFactor` https://richarddmorey.github.io/BayesFactor/
+* `brms` https://paul-buerkner.github.io/brms/
 
 
 ### Meeting Materials
