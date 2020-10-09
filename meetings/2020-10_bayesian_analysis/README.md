@@ -26,7 +26,7 @@ Essential for this talk:
 * `bayesplot` https://mc-stan.org/users/interfaces/bayesplot
 * `bayestestR` https://easystats.github.io/bayestestR/index.html
 
-Other alternatives
+Other alternatives:
 * `BayesFactor` https://richarddmorey.github.io/BayesFactor/
 * `brms` https://paul-buerkner.github.io/brms/
 
