@@ -31,4 +31,4 @@ Other alternatives:
 * `brms` https://paul-buerkner.github.io/brms/
 
 ### Meeting Materials
-* 
+* [HTML Slides (right click and click Save As, save to your computer, and open in a web browser)](BayesNotebookBiodataClub.html)
