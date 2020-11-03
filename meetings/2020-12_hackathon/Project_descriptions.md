@@ -1,74 +1,67 @@
 # Hackathon Projects 2020
 
-## Pipeline for Apple HealthKit data (Team Lead: Brian Gonzalez)
+## User-friendly simulation software for cluster analysis (Team Lead: Naomi Brownstein)
+The goal of this project is to create an R package to simulate clusters for evaluation of algorithms for cluster analysis. The aim is to enable to R users to easily simulate and visualize high-dimensional data from one or more clusters. 
 
+Impact: The package will be used for simulations to finish a manuscript evaluating clusterability methods on high dimensional data. Existing R packages for simulating clusters from Gaussian or other data contained errors, were too restrictive, were not user-friendly, were not easily scaled to high dimensions, or have been archived. (Examples: ClusterSim, MixSim, ClusterGeneration) Cluster analysis is studied theoretically in computer science and statistics and used in countless applications, such as genetics and cancer. The package from this project will be posted on github and submitted to CRAN. If possible, a brief documentation paper with examples could also be written during or after the Hackathon to help users incorporate the package into their planned analyses. The package has the potential to become widely used (and paper widely cited) among the numerous authors who create new clustering algorithms. Finally, this project will enhance participants’ knowledge of cluster analysis and clusterability.
+
+**Technical specifications:** The R package should have options such the number of observations in each cluster, the number of features, cluster means and variances, or other parameters to control the distributions of the clusters. While the participants can choose the specific structure of the package, it may be easiest to start with and/or focus on multivariate Gaussian clusters (e.g. leveraging existing functions/packages such as rnorm, mvrnorm, mvtnorm, or simstandard). (A recently archived R package that inspired this project is clusterlab.) 
+
+**Programming background:** Familiarity with R. While not required, it would be highly beneficial if at least one member of the team has experience creating an R package. 
+
+## Utilization of target lesion heterogeneity to assess treatment efficacy (Team Lead: Dung-Tsa Chen)
+Background: Recent studies have discovered several unique tumor response subgroups, such as mixed response, oligometastasis, and pseudo-progression. Patients in these subgroups often need special clinical attention to tailor treatment due to inconsistent reactions to drugs. These subtypes have a distinctive property, lesion heterogeneity in diverse tumor growth patterns between lesions. Determination of the subtypes requires high resolution of lesion level measurement data and makes the use of Response Evaluation Criteria for Solid Tumors (RECIST) less practical, a standard tool to assess treatment effect in oncology clinical trials. RECIST has helped advance cancer treatment, such as chemotherapy, targeted therapy, immunotherapy, or the combination. It uses various criteria to evaluate treatment efficacy. One primary measurement is target lesion. The target lesion is measured for its size at each CT scan. The sum of all target lesions is then used to determine treatment effectiveness. However, studies have raised various issues regarding RECIST being applied for incorrect determination of response, which resulted in premature termination of therapy and imprecise efficacy. One key limitation of RECIST is the use of sum of all target lesion sizes for clinical decision-making. This approach uses naïve assumption of lesion homogeneity and therefore seriously hinders its ability in evaluating individual lesion variability of tumor growth in an individual patient. Many studies attempted to reform RECIST, but their methodology still relied on RECIST’s aggregated sum to describe patient treatment response.
+
+Data: A total of 110 target lesions in 36 late stage lung cancer patients treated with immunotherapy from a research protocol at Moffitt Cancer Institute (MCC20369). Tumor measurements of these lesions were derived per RECIST from CT scans for data analysis. Distribution of CT scans were 50% with 3 scans (n=18), and 50% with 4 scans or more (n=18). For lesion frequency per patient, there were 33% patients with 2 lesions (n=12), 33% patients with 3 lesions (n=12), 28% patients with 4 lesions (n=10), and 6% patients with 5 lesions (n=2).
+
+Hypothesis: Utilization of lesion heterogeneity leads to effective tailored treatment strategies.
+
+**Technical Specifications:** TBD
+ 
+**Programming background:** TBD
+
+## Pipeline for Apple HealthKit data (Team Lead: Brian Gonzalez)
 Studies and clinical teams increasingly desire to pull Apple HealthKit data in order to collect patient-generated health data (PGHD). These data could be used to surveil for patients about to experience significant toxicity (e.g., by detecting a drop-off in number of steps taken per day), for monitoring change in PGHD after treatment, or for trials testing the efficacy of behavioral interventions. Pulling data from Apple HealthKit could help simplify data collection, as HealthKit could serve as a way to harmonize data from multiple sources (e.g., Fitbit, Garmin, Apple Watch) before they’re sent to Moffitt.
 
+**Technical specifications:** TBD
 
-**Technical specifications:** The front-end should be a JavaScript-based framework. 
+**Programming background:** TBD
 
-**Impact:** The final product should generate graphs/charts from any server that provides API’s endpoints with data to create reports.
+## R Shiny application for the visualization of immunofluorescence spatial data (Team Lead: Brooke Fridley)
+Multiplex immunofluorescence (IF) microscopy combined with automated image analysis is a novel and increasingly used technique that allows for the assessment and visualization of the tumor immune microenvironment (TIME). In addition to discrimination between immune cell types, both tumor and stromal cells can be identified to aid in the characterization of the TIME. Recently, application of this new technology to existing tissue microarrays (TMAs) or whole tissue sections from large cancer epidemiology studies has been used to characterize immune cells in cancer patients with enhanced reproducibility and accuracy. 
 
-**Number of participants:** The project would require 1 to 2 people.
+**Technical Specifications:** In this proposed project, we will develop an R Shiny application that will allow users to upload spatial IF data for individual cores. The application will then generate interactive figures displaying individual markers, immune phenotypes, spatial and summary information using plotly. The generated figure will show which cells are positive for particular marker/phenotype(s), draw borders a specific cell components  and highlight cells within a certain radius and provide information on the proportions of certain markers/cell types. The application will also calculate spatial statistics such as Ripley’s K or Besag’s L (time permitting). 
 
-**Programming background:** Familiarity with JavaScript. 
+**Programming Background:** The development of the R shiny application will be done utilizing GitHub and git via Dr. Fridley’s GitHub page to ensure reproducibility and rigor. Dr. Fridley will be involved to provide an overview of the project and organization; Ms. Jordan Creed and Dr. Chris Wilson will work with participants in the development of the R Shiny application.  Participants will only need a basic knowledge of R/Rstudio and/or R Shiny.
 
-## Efficient, Fast & Accurate Compression of Large Datasets using PCA (Team Lead: Anders Berglund)
-
-The goal of this project is to implement the NIPALS (non-linear iterative partial least squares) PCA algorithm in several languages. The project will include the following steps: read data file, error check and handling of missing values, convert to matrix format, remove mean, scale to unit variance (optional), calculate PCA model using NIPALS, calculate relevant statistics, save/export results
-
-**Technical specifications:**  The aim is to implement NIPALS PCA in several commonly used data science programming languages such as PYTHON, C, C++, C#, JAVA, R, Julia, JavaScript or any other of the participants choice. Most of these languages have a Basic Linear Algebra Subprograms (BLAS) based library for matrix operation that will be used. For example, in C, GNU Scientific language (GSL) is a possible choice and for PYTHON Numpy would be a good choice.
-
-**Impact:** The project will be a vital part of a publication comparing the performance and accuracy of NIPALS PCA to other implementations such as SVD or Eig. The code produced in the project will be made available through GitHub. In addition, the code will be available for BBSR to use in other projects and also increase the participants understanding of PCA.
-
-**Number of participants:** Each implementation in the different languages would require 1-2 persons.
-
-**Programming background:** The participant needs to master the language they choose to use. Prior experience of matrix operations using BLAS, Numpy or GSL would also be beneficial.
-
-## Extended Heatmaps (Team Lead: Jordan Creed)
-
-Many genomic annotations, such as LD and Hi-C are visualized as heatmaps, however current heatmaps only allow for one type of measurement to be plotted in a heatmap. This project would extend current heatmap visualization options in R by creating 3-D heatmaps and allowing users to plot different annotations along the same x-axis. 
-
-**Technical specifications:** This project will primarily use R and R packages such as the tidyverse and rayshader. 
-
-**Impact:** This project will provide an extension of current heatmap visualization in R and will be made available through GitHub. 
-
-**Number of participants:** This project would require at least 3 people including a person working on: combining matrices, and creating static and 3-D visuals. 
-
-**Programming background:** Knowledge of R package creation and current heatmap packages would be beneficial. 
-
-## Geolocation Services for Moffitt Investigators (Team Lead: Rodrigo Carvajal)
-
-Provide a tool that allows people to upload a list of mailing addresses (including zip codes) or just the zip codes into a web application with the purpose to get back a map with the locations and density.  A more developed implementation would allow to link metadata associated to those locations (i.e. gender, cancer type, insurance status, etc.). Filters could be applied to the metadata.
-
-**Technical specifications:** The front-end should be a JavaScript-based framework.
-
-**Impact:** Moffitt investigators will have available a the web application to generate georeferenced plots.
-
-**Number of participants:** The project would require at least 3 people.
-
-**Programming background:** Familiarity with Java or R (depending of the tool to use).  Java code has been already developed for this purpose. 
-
-## Smoking Cessation Transition Diagrams (Team Lead: Steve Sutton)
-
-In smoking cessation intervention studies, there are measures of smoking status (smoking, abstinent, or missing) at each follow-up assessment. This project would create a SAS Macro or R function that would create figures showing the transitions between assessments based on frequencies. 
-
-**Technical specifications:** Familiarity with SAS or R. 
-
-**Impact:** The final product should generate a figure depicting transitons based off of frequency tables. 
-
-**Number of participants:** 2 or more
-
-**Programming background:** Familiarity with SAS or R. 
-
-## Cloud Platform Dashboard Design (Team Lead: Rachel Howard)
+## Visualizing catchment area alignment with consent and biospecimen availability (Team Lead: Travis Gerke)
+Create an interactive web report that shows consent status (e.g. to TCC) and specimen availability by key demographic variables (e.g. aggregate counts by race/ethnicity, county of residence). Filters which highlight Moffitt’s key catchment area opportunities will be available. Aggregate counts will be curated from HRI backend database tables.
  
-Create an Rshiny prototype for the first Google Cloud Platform (GCP) interactive dashboard. A dummy dataset matching the characteristics of the Personalized Medicine curated data mart will be created and stored in Google BigQuery. The app will read data directly from BigQuery and allow for basic cohort building and data visualization (including comparison of survival curves between patient subgroups and individual patient clinical timelines).
+Impact: The final report will be accessible to Moffitt team members on the intranet as a web link (deployed via internal GitLab Pages server). The format of the report will be readily extensible to similar research reporting / dashboarding needs. 
+
+**Technical Specifications:** R/SQL, Shiny, ggplotting of `sf` or similar R-based geography objects
+
+**Programming Background:** Familiarity with R and R markdown/Shiny
+
+## Demo application for facilitated LIMS reporting (Team Lead: Fredrik Pettersson)
+The process for time reporting using the LIMS system is not very well suited for our daily workflow with room for improvement to increase efficiency, remove frustration and to provide transparency and overview. I propose a project to greatly facilitate reporting and interactive visualization of LIMS entries by design and implementation of an interactive web application with an associated API. The goal will be to develop a standalone and modular application for demonstrating a streamlined procedure to stakeholders. The application will be developed with future integration with CICPT and Labvantage in mind either as a microservice, reusable web components or through API. The most immediately useful functionality would be the ability to export data in .csv format for subsequent import to other systems.
+
+Impact: An improved workflow for LIMS entry would save many hours per week in BBSR alone. Features will be implemented with the aim to be integrated in upcoming CICPT version. A successful implementation would serve as a compelling case to initialize a dialogue on the possibility to integrate with Labvantage in a safe and streamlined manner.
+
+**Technical Specifications:**
+- MongoDB to store entries
+- Authentication using AD and/or KeyCloak
+- GraphQL API
+- Vue javascript frontend  
+- Summary plots using D3 and plotly
+
+**Programming Background:** Familiarity with web development, either backend or frontend.  
+
+## NLP approach for clustering text into similar objects (Team Lead: Phillip Szepietowski)
+Build a tool that will take in textual input (survey questionnaire data, paper/grant abstracts, etc) and return clusters/groups of similar items and/or rank items based on similarity to a specific chosen item or search phrase.
+
+Impact: Researchers can use the tool to cluster a given collection of input texts into similar objects. For the hackathon, we will focus on collections of survey Q&A transcripts, for which we can group together similar responses to help researchers identify topic groups and create concept maps. In the future, we could create and curate a database of Moffitt journal abstracts along with grant proposals (or other available data) that can be used with the tool to help group together similar abstracts and allow researchers to connect with other researchers working on similar past or current projects at Moffitt.
  
-**Technical specifications:** Participants will need access to R and a Google Cloud account.
+**Technical Specifications:** Python for processing text and modelling with BERT (using a pretrained BioBERT model) – some of this is already written. Frontend/UI is language agnostic, could be Python, Javascript, R, etc.
  
-**Impact:** We will create an initial template for a GCP dashboard that will be used by the Personalized Medicine Clinical Service to facilitate their daily clinical operations.
- 
-**Number of participants:** 1 or more
- 
-**Programming background:** Experience with R and/or GCP beneficial but not required.
+**Programming background:** Familiarity with Python (preferred), but the frontend could be written in Python, Javascript, R, so experience with app development in any of those languages (or others) would be helpful
