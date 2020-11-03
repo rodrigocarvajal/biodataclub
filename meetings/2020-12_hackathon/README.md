@@ -28,6 +28,7 @@ The list of projects for this year's hackathon [can be found here](https://githu
 - The winning team will be awarded a prize and bragging rights for the year.
 - No work (e.g. writing code, analyzing data) should be performed prior to the start of the hackathon
   - The addition of completely new features to existing code will be acceptable. 
+- Participants agree to follow the [code of conduct](https://github.com/pstew/biodataclub/blob/master/meetings/2020-12_hackathon/CoC/CodeConduct.pdf).
 
 ## Misc.
 - Participants will be matched with their team leader approximately one week before the start of the hackathon. Team leaders are highly encouraged to on-board team members at this point. This will give teams time to complete setup tasks (e.g. read background material, download data, install packages, etc.) so they can hit the ground running on the day of the hackathon. 
