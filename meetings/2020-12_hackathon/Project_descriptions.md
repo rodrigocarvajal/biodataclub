@@ -16,7 +16,7 @@ Data: A total of 110 target lesions in 36 late stage lung cancer patients treate
 
 Hypothesis: Utilization of lesion heterogeneity leads to effective tailored treatment strategies.
 
-**Technical Specifications:** TBD
+**Technical specifications:** TBD
  
 **Programming background:** TBD
 
@@ -30,38 +30,38 @@ Studies and clinical teams increasingly desire to pull Apple HealthKit data in o
 ## R Shiny application for the visualization of immunofluorescence spatial data (Team Lead: Brooke Fridley)
 Multiplex immunofluorescence (IF) microscopy combined with automated image analysis is a novel and increasingly used technique that allows for the assessment and visualization of the tumor immune microenvironment (TIME). In addition to discrimination between immune cell types, both tumor and stromal cells can be identified to aid in the characterization of the TIME. Recently, application of this new technology to existing tissue microarrays (TMAs) or whole tissue sections from large cancer epidemiology studies has been used to characterize immune cells in cancer patients with enhanced reproducibility and accuracy. 
 
-**Technical Specifications:** In this proposed project, we will develop an R Shiny application that will allow users to upload spatial IF data for individual cores. The application will then generate interactive figures displaying individual markers, immune phenotypes, spatial and summary information using plotly. The generated figure will show which cells are positive for particular marker/phenotype(s), draw borders a specific cell components  and highlight cells within a certain radius and provide information on the proportions of certain markers/cell types. The application will also calculate spatial statistics such as Ripley’s K or Besag’s L (time permitting). 
+**Technical specifications:** In this proposed project, we will develop an R Shiny application that will allow users to upload spatial IF data for individual cores. The application will then generate interactive figures displaying individual markers, immune phenotypes, spatial and summary information using plotly. The generated figure will show which cells are positive for particular marker/phenotype(s), draw borders a specific cell components  and highlight cells within a certain radius and provide information on the proportions of certain markers/cell types. The application will also calculate spatial statistics such as Ripley’s K or Besag’s L (time permitting). 
 
-**Programming Background:** The development of the R shiny application will be done utilizing GitHub and git via Dr. Fridley’s GitHub page to ensure reproducibility and rigor. Dr. Fridley will be involved to provide an overview of the project and organization; Ms. Jordan Creed and Dr. Chris Wilson will work with participants in the development of the R Shiny application.  Participants will only need a basic knowledge of R/Rstudio and/or R Shiny.
+**Programming background:** The development of the R shiny application will be done utilizing GitHub and git via Dr. Fridley’s GitHub page to ensure reproducibility and rigor. Dr. Fridley will be involved to provide an overview of the project and organization; Ms. Jordan Creed and Dr. Chris Wilson will work with participants in the development of the R Shiny application.  Participants will only need a basic knowledge of R/Rstudio and/or R Shiny.
 
 ## Visualizing catchment area alignment with consent and biospecimen availability (Team Lead: Travis Gerke)
 Create an interactive web report that shows consent status (e.g. to TCC) and specimen availability by key demographic variables (e.g. aggregate counts by race/ethnicity, county of residence). Filters which highlight Moffitt’s key catchment area opportunities will be available. Aggregate counts will be curated from HRI backend database tables.
  
 Impact: The final report will be accessible to Moffitt team members on the intranet as a web link (deployed via internal GitLab Pages server). The format of the report will be readily extensible to similar research reporting / dashboarding needs. 
 
-**Technical Specifications:** R/SQL, Shiny, ggplotting of `sf` or similar R-based geography objects
+**Technical specifications:** R/SQL, Shiny, ggplotting of `sf` or similar R-based geography objects
 
-**Programming Background:** Familiarity with R and R markdown/Shiny
+**Programming background:** Familiarity with R and R markdown/Shiny
 
 ## Demo application for facilitated LIMS reporting (Team Lead: Fredrik Pettersson)
 The process for time reporting using the LIMS system is not very well suited for our daily workflow with room for improvement to increase efficiency, remove frustration and to provide transparency and overview. I propose a project to greatly facilitate reporting and interactive visualization of LIMS entries by design and implementation of an interactive web application with an associated API. The goal will be to develop a standalone and modular application for demonstrating a streamlined procedure to stakeholders. The application will be developed with future integration with CICPT and Labvantage in mind either as a microservice, reusable web components or through API. The most immediately useful functionality would be the ability to export data in .csv format for subsequent import to other systems.
 
 Impact: An improved workflow for LIMS entry would save many hours per week in BBSR alone. Features will be implemented with the aim to be integrated in upcoming CICPT version. A successful implementation would serve as a compelling case to initialize a dialogue on the possibility to integrate with Labvantage in a safe and streamlined manner.
 
-**Technical Specifications:**
+**Technical specifications:**
 - MongoDB to store entries
 - Authentication using AD and/or KeyCloak
 - GraphQL API
 - Vue javascript frontend  
 - Summary plots using D3 and plotly
 
-**Programming Background:** Familiarity with web development, either backend or frontend.  
+**Programming background:** Familiarity with web development, either backend or frontend.  
 
 ## NLP approach for clustering text into similar objects (Team Lead: Phillip Szepietowski)
 Build a tool that will take in textual input (survey questionnaire data, paper/grant abstracts, etc) and return clusters/groups of similar items and/or rank items based on similarity to a specific chosen item or search phrase.
 
 Impact: Researchers can use the tool to cluster a given collection of input texts into similar objects. For the hackathon, we will focus on collections of survey Q&A transcripts, for which we can group together similar responses to help researchers identify topic groups and create concept maps. In the future, we could create and curate a database of Moffitt journal abstracts along with grant proposals (or other available data) that can be used with the tool to help group together similar abstracts and allow researchers to connect with other researchers working on similar past or current projects at Moffitt.
  
-**Technical Specifications:** Python for processing text and modelling with BERT (using a pretrained BioBERT model) – some of this is already written. Frontend/UI is language agnostic, could be Python, Javascript, R, etc.
+**Technical specifications:** Python for processing text and modelling with BERT (using a pretrained BioBERT model) – some of this is already written. Frontend/UI is language agnostic, could be Python, Javascript, R, etc.
  
 **Programming background:** Familiarity with Python (preferred), but the frontend could be written in Python, Javascript, R, so experience with app development in any of those languages (or others) would be helpful
