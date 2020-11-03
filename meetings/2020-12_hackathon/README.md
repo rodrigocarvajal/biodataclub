@@ -1,54 +1,52 @@
-# December 2019: The First Annual Bio-Data Club Hackathon
-
-## Best Project
-
-Congratulations to Guillermo Gonzalez-Calderon (team leader) and Rhoda Gai-Cherry for having their project chosen by the judges as best project!
-
-![image](winners.png)
+# December 2020: The Second Annual Bio-Data Club Hackathon
 
 ## Hackathon Details
 
-The Moffitt Bio-Data club will be hosting it's first Hackathon on December 5th and 6th, 2019! A hackathon is an event in which participants come together to collaborate intensively on software projects. [Here is a short article](https://www.rasmussen.edu/degrees/technology/blog/what-is-a-hackathon/) describing what you can expect. Please check out our [projects list](Project_descriptions.md), or if you prefer to work independently, then you can come with your own idea and work on it in the shared hackathon space.
+Registration for the Bio-Data Club's Second Annual Hackathon is now open! You can register at this link: https://forms.gle/4UQSkdTWGhwTV1cz7. The hackathon will commence December 10th 2020 at 9am and conclude with project presentations on December 11th at 3pm. A hackathon is an event in which participants come together to build a software product during a short period of time. [Here is a short article](https://www.rasmussen.edu/degrees/technology/blog/what-is-a-hackathon/) describing what you can expect. [Last year’s hackathon](https://github.com/pstew/biodataclub/tree/master/meetings/2019-12_hackathon) featured nearly 40 participants working collaboratively on 6 projects. Like last year, projects featured in this year's hackathon all have potential benefits for Moffitt. 
 
-Participation is completely optional. Team members are under no obligation to participate. However, this will be a fun event and we encourage everyone to sign up! The event will be very low stakes, and we encourage **friendly** competition between teams. Although the team with the best project will receive a prize, every participant is a winner! 
+Participation is completely optional, and Moffitt employees are under no obligation to participate. However, this will be a fun event and we encourage everyone to sign up! The event will be very low stakes, and we encourage friendly competition between teams. The winning team will be awarded a small prize and bragging rights for the year. Since work on hackathon projects will occur during an intensive ~24 hour period, please make sure to obtain permission to participate from your supervisor or PI. 
 
 ## Registration
-Registration is required. We need an accurate headcount so we can balance teams and send hackathon-related communications. Please register [with this form](https://forms.gle/84WHZRkcjfPeh4eg7) by Wednesday, November 27th 2019 or you might not be able to participate. 
+Registration is required and will allow us to send hackathon-related communications and calendar/zoom invites. Please register [with this form](https://forms.gle/4UQSkdTWGhwTV1cz7) by Thursday, December 3rd 2020 (one week prior to the start of the hackathon) or you may not be able to participate. 
 
 ## Rules
-- Participants will be placed into teams based on the projects chosen during registration. These teams will be lead by a team leader who submitted their project idea to the hackathon organizing committee. Teams will have approximately 24 hours to develop a deliverable product (e.g. package, new method). 
-- The maximum number of participants per team may need to be capped based on popularity. Preference will be given to early registrants.
+- Participants choose the team they wish to join during registration. 
+- Teams will be overseen by a team leader who will delegate tasks.
+- Teams will have approximately 24 hours to develop a deliverable product. 
 - Each team will have 5 minutes to present their final product on Friday. Product demonstrations or slides will be acceptable.
-- A panel of judges (Drs. John Koomen, Dana Rollison, John Schatzle, and AC Tan) will pick the winning project. The winning project will be judged by the following categories:
+- A panel of judges (Drs. Peter Kanetsky, John Koomen, Dana Rollison, John Schatzle, AC Tan) will pick the winning project. 
+- The winning project will be judged by the following categories:
   - Reproducibility
   - Impact on Moffitt
   - Usability
   - Scientific value
 - The winning team will be awarded a prize and bragging rights for the year.
+- No work (e.g. writing code, analyzing data) should be performed prior to the start of the hackathon
+  - The addition of completely new features to existing code will be acceptable. 
+
+## Misc.
+- Participants will be matched with their team leader approximately one week before the start of the hackathon. Team leaders are highly encouraged to on-board team members at this point. This will give teams time to complete setup tasks (e.g. read background material, download data, install packages, etc.) so they can hit the ground running on the day of the hackathon. 
+- Some programming background in any language is recommended but not required. 
+  - If you are not confident in your programming skills, then there may be non-programming tasks such as finding validation datasets, cleaning data, creating figures, or creating slides for the results presentation that will still allow you to participate. 
 
 ## Agenda and Locations
 
-### Day 1 (Thursday December 5th, 2019)
-- **3pm - 4pm** Hackathon Kickoff (SRB, Ferman Family Conference Room)
+### Day 1 (Thursday December 10th, 2020)
+- **9am** Hackathon Kickoff (zoom link TBD)
   - Introduce teams and projects
-  - Break into teams and begin planning and hacking
-- **4pm - ??** Teams continue to work on projects
+  - Time for questions
+  - Break into teams and begin hacking
+- **9:30am - ??** Teams work on projects
 
-### Day 2 (Friday, December 6th, 2019)
-- **9am - 12pm** Continue work on projects (MRC2-Conference Room 2,  MRC1-1072/Eye Institute Conference Room, and MRC4084)
-  - Multiple meeting rooms have been reserved for the hackathon. Feel free to utilize them as needed. 
-  - MRC4084 is only available until 1:45pm.
-- **12pm** Pick up boxed lunches (MRC2-Conference Room 2; generously provided by the Department of Biostatistics and Bioinformatics)
-- **12pm - 3pm** Continue work on projects (MRC2-Conference Room 2,  MRC1-1072/Eye Institute Conference Room, and MRC4084)
-- **3pm - 4:30pm** Hackathon Wrap-up (SRB, David Murphey Conference Room)
+### Day 2 (Friday, December 11th, 2020)
+**?? - 3pm** Teams continue working
+**3pm - 4:30pm** Hackathon Wrap-up (zoom link TBD)
   - Project demonstrations
   - Judges convene briefly to pick the winning project
   - Winners announced, prizes awarded
   - Meeting adjournment
-- **5pm - 6pm** Hackathon celebration at World of Beer (2815 E Fowler Ave, Tampa, FL 33612)
+- **5pm - 6pm** Hackathon virtual happy hour (zoom link TBD)
   - Attendance is optional for hackathon participants
-  - Participants are responsible for purchasing their own food and beverages
 
 ## Hackathon Organizing Committee
-Rodrigo Carvajal, Jordan Creed, Guillermo Gonzalez-Calderon, Jose Laborde, Richie Reich, Paul Stewart
-
+Anders Berglund, Rodrigo Carvajal, Jordan Creed, Guillermo Gonzalez-Calderon, Jose Laborde, Richie Reich, Paul Stewart
