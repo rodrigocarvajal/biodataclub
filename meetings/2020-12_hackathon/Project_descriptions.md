@@ -16,9 +16,9 @@ Data: A total of 110 target lesions in 36 late stage lung cancer patients treate
 
 Hypothesis: Utilization of lesion heterogeneity leads to effective tailored treatment strategies.
 
-**Technical specifications:** TBD
+**Technical specifications:** basic R, statistical and/or machine learning approaches to identify and classify lesion heterogeneity
  
-**Programming background:** TBD
+**Programming background:** R and R markdown/Shiny
 
 ## Pipeline for Apple HealthKit data (Team Lead: Brian Gonzalez)
 Studies and clinical teams increasingly desire to pull Apple HealthKit data in order to collect patient-generated health data (PGHD). These data could be used to surveil for patients about to experience significant toxicity (e.g., by detecting a drop-off in number of steps taken per day), for monitoring change in PGHD after treatment, or for trials testing the efficacy of behavioral interventions. Pulling data from Apple HealthKit could help simplify data collection, as HealthKit could serve as a way to harmonize data from multiple sources (e.g., Fitbit, Garmin, Apple Watch) before they’re sent to Moffitt.
