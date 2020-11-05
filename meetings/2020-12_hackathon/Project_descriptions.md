@@ -57,7 +57,7 @@ Impact: An improved workflow for LIMS entry would save many hours per week in BB
 
 **Programming background:** Familiarity with web development, either backend or frontend.  
 
-## BERT-based Moffitt Pub+Grant Abstract Search
+## BERT-based Moffitt Pub+Grant Abstract Search (Team Lead: Phillip Szepietowski)
 Overview: Build a tool that will take in a search phrase and return a ranked list of Moffitt publication and grant proposal abstracts that are similar to that phrase.
  
 Impact: Researchers can use the tool to identify past/current/future projects that are similar in nature to their input search phrase and allow them to connect with other researchers that are working (or that have worked) on related projects/ideas to facilitate collaboration and to help the sharing of perspective and experience among colleagues.
