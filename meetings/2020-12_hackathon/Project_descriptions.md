@@ -57,11 +57,20 @@ Impact: An improved workflow for LIMS entry would save many hours per week in BB
 
 **Programming background:** Familiarity with web development, either backend or frontend.  
 
-## NLP approach for clustering text into similar objects (Team Lead: Phillip Szepietowski)
-Build a tool that will take in textual input (survey questionnaire data, paper/grant abstracts, etc) and return clusters/groups of similar items and/or rank items based on similarity to a specific chosen item or search phrase.
+## BERT-based Moffitt Pub+Grant Abstract Search
+Overview: Build a tool that will take in a search phrase and return a ranked list of Moffitt publication and grant proposal abstracts that are similar to that phrase.
+ 
+Impact: Researchers can use the tool to identify past/current/future projects that are similar in nature to their input search phrase and allow them to connect with other researchers that are working (or that have worked) on related projects/ideas to facilitate collaboration and to help the sharing of perspective and experience among colleagues.
+ 
+We will utilize Moffitt's MARCENE database which includes both historical and current Moffitt publication and grant abstracts. Search phrases will be compared with abstracts from the past five years and the tool will return a ranked list of the most similar abstracts/projects, along with author/contributor lists and perhaps any relevant related links. 
 
-Impact: Researchers can use the tool to cluster a given collection of input texts into similar objects. For the hackathon, we will focus on collections of survey Q&A transcripts, for which we can group together similar responses to help researchers identify topic groups and create concept maps. In the future, we could create and curate a database of Moffitt journal abstracts along with grant proposals (or other available data) that can be used with the tool to help group together similar abstracts and allow researchers to connect with other researchers working on similar past or current projects at Moffitt.
+The similarity will be measured using a pertained BioBERT model which maps sentences into a high-dimensional real vector space. Within this space, we can compare the search phrase with the abstracts and return abstracts that have the most overlap with the search phrase (measured by an aggregated cosine-similarity score).
  
-**Technical specifications:** Python for processing text and modelling with BERT (using a pretrained BioBERT model) – some of this is already written. Frontend/UI is language agnostic, could be Python, Javascript, R, etc.
+**Technical specifications:** 
+- Python for processing text and modeling with BERT (using a pertained BioBERT model from the Huggingface library https://huggingface.co/gsarti/biobert-nli). 
+- Data will be stored either in raw json or MongoDB. 
+- Frontend/UI is language agnostic, could be built directly in Python, Javascript, R.  Potentially to be implemented as a Flask app or within a Jupyter notebook framework.
  
-**Programming background:** Familiarity with Python (preferred), but the frontend could be written in Python, Javascript, R, so experience with app development in any of those languages (or others) would be helpful
+**Programming background:** 
+- Familiarity with Python is preferred but not required.
+- Web-development experience helpful.
