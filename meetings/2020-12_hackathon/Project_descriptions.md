@@ -23,9 +23,9 @@ Hypothesis: Utilization of lesion heterogeneity leads to effective tailored trea
 ## Pipeline for Apple HealthKit data (Team Lead: Brian Gonzalez)
 Studies and clinical teams increasingly desire to pull Apple HealthKit data in order to collect patient-generated health data (PGHD). These data could be used to surveil for patients about to experience significant toxicity (e.g., by detecting a drop-off in number of steps taken per day), for monitoring change in PGHD after treatment, or for trials testing the efficacy of behavioral interventions. Pulling data from Apple HealthKit could help simplify data collection, as HealthKit could serve as a way to harmonize data from multiple sources (e.g., Fitbit, Garmin, Apple Watch) before they’re sent to Moffitt.
 
-**Technical specifications:** TBD
+**Technical specifications:** HealthKit data can be exported as an XML file and parsed into a human-readable format with libraries from most popular languages. 
 
-**Programming background:** TBD
+**Programming background:** No language is required, but experience in visualizing longitudinal data, programming with R, or working with cloud services (e.g. Google Cloud Platform) is a plus.
 
 ## R Shiny application for the visualization of immunofluorescence spatial data (Team Lead: Brooke Fridley)
 Multiplex immunofluorescence (IF) microscopy combined with automated image analysis is a novel and increasingly used technique that allows for the assessment and visualization of the tumor immune microenvironment (TIME). In addition to discrimination between immune cell types, both tumor and stromal cells can be identified to aid in the characterization of the TIME. Recently, application of this new technology to existing tissue microarrays (TMAs) or whole tissue sections from large cancer epidemiology studies has been used to characterize immune cells in cancer patients with enhanced reproducibility and accuracy. 
