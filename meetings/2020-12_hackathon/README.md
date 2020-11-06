@@ -50,8 +50,8 @@ The list of projects for this year's hackathon [can be found here](https://githu
 - **9:30am - ??** Teams work on projects
 
 ### Day 2 (Friday, December 11th, 2020)
-**?? - 3pm** Teams continue working
-**3pm - 4:30pm** Hackathon Wrap-up (zoom link TBD)
+- **?? - 3pm** Teams continue working
+- **3pm - 4:30pm** Hackathon Wrap-up (zoom link TBD)
   - Project demonstrations
   - Judges convene briefly to pick the winning project
   - Winners announced, prizes awarded
