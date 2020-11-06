@@ -20,19 +20,19 @@ Hypothesis: Utilization of lesion heterogeneity leads to effective tailored trea
  
 **Programming background:** R and R markdown/Shiny
 
-## Pipeline for Apple HealthKit data (Team Lead: Brian Gonzalez)
-Studies and clinical teams increasingly desire to pull Apple HealthKit data in order to collect patient-generated health data (PGHD). These data could be used to surveil for patients about to experience significant toxicity (e.g., by detecting a drop-off in number of steps taken per day), for monitoring change in PGHD after treatment, or for trials testing the efficacy of behavioral interventions. Pulling data from Apple HealthKit could help simplify data collection, as HealthKit could serve as a way to harmonize data from multiple sources (e.g., Fitbit, Garmin, Apple Watch) before they’re sent to Moffitt.
-
-**Technical specifications:** HealthKit data can be exported as an XML file and parsed into a human-readable format with libraries from most popular languages. 
-
-**Programming background:** No language is required, but experience in visualizing longitudinal data, programming with R, or working with cloud services (e.g. Google Cloud Platform) is a plus.
-
 ## R Shiny application for the visualization of immunofluorescence spatial data (Team Lead: Brooke Fridley)
 Multiplex immunofluorescence (IF) microscopy combined with automated image analysis is a novel and increasingly used technique that allows for the assessment and visualization of the tumor immune microenvironment (TIME). In addition to discrimination between immune cell types, both tumor and stromal cells can be identified to aid in the characterization of the TIME. Recently, application of this new technology to existing tissue microarrays (TMAs) or whole tissue sections from large cancer epidemiology studies has been used to characterize immune cells in cancer patients with enhanced reproducibility and accuracy. 
 
 **Technical specifications:** In this proposed project, we will develop an R Shiny application that will allow users to upload spatial IF data for individual cores. The application will then generate interactive figures displaying individual markers, immune phenotypes, spatial and summary information using plotly. The generated figure will show which cells are positive for particular marker/phenotype(s), draw borders a specific cell components  and highlight cells within a certain radius and provide information on the proportions of certain markers/cell types. The application will also calculate spatial statistics such as Ripley’s K or Besag’s L (time permitting). 
 
 **Programming background:** The development of the R shiny application will be done utilizing GitHub and git via Dr. Fridley’s GitHub page to ensure reproducibility and rigor. Dr. Fridley will be involved to provide an overview of the project and organization; Ms. Jordan Creed and Dr. Chris Wilson will work with participants in the development of the R Shiny application.  Participants will only need a basic knowledge of R/Rstudio and/or R Shiny.
+
+## Pipeline for Apple HealthKit data (Team Lead: Brian Gonzalez)
+Studies and clinical teams increasingly desire to pull Apple HealthKit data in order to collect patient-generated health data (PGHD). These data could be used to surveil for patients about to experience significant toxicity (e.g., by detecting a drop-off in number of steps taken per day), for monitoring change in PGHD after treatment, or for trials testing the efficacy of behavioral interventions. Pulling data from Apple HealthKit could help simplify data collection, as HealthKit could serve as a way to harmonize data from multiple sources (e.g., Fitbit, Garmin, Apple Watch) before they’re sent to Moffitt.
+
+**Technical specifications:** HealthKit data can be exported as an XML file and parsed into a human-readable format with libraries from most popular languages. 
+
+**Programming background:** No language is required, but experience in visualizing longitudinal data, programming with R, or working with cloud services (e.g. Google Cloud Platform) is a plus.
 
 ## Visualizing catchment area alignment with consent and biospecimen availability (Team Lead: Travis Gerke)
 Create an interactive web report that shows consent status (e.g. to TCC) and specimen availability by key demographic variables (e.g. aggregate counts by race/ethnicity, county of residence). Filters which highlight Moffitt’s key catchment area opportunities will be available. Aggregate counts will be curated from HRI backend database tables.
