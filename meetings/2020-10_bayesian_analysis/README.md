@@ -32,3 +32,4 @@ Other alternatives:
 
 ### Meeting Materials
 * [HTML Slides (right click and click Save As, save to your computer, and open in a web browser)](BayesNotebookBiodataClub.html)
+* [Video recording of meeting](https://moffitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cdb67fc1-529d-475c-8c69-ac56013cdd1e)
