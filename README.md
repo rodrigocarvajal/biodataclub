@@ -8,7 +8,7 @@ November 2020: Fredrik Pettersson (Introduction to Julia)
 
 December 2020: Second Annual Hackathon
 
-January 2021: TBD
+January 2021: Scott Cukras (Docker/Singularity)
 
 February 2021: TBD
 
