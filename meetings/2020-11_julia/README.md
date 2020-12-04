@@ -17,3 +17,6 @@ In this Bio-data club presentation I will introduce the Julia language with a pr
 
 ### Pre-requisites
 Have [Julia](https://julialang.org/) and [VS Code IDE](https://code.visualstudio.com/download) installed before talk.
+
+## Meeting files
+* [Meeting slides](biodataclub_20201120_julia.pptx).
