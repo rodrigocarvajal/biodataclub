@@ -40,23 +40,23 @@ The list of projects for this year's hackathon [can be found here](https://githu
   - Google Drive: shared cloud folder for sharing files 
   - git/github: work on the same code simultaneously 
 
-## Agenda and Locations
+## Agenda
 
 ### Day 1 (Thursday December 10th, 2020)
-- **9am** Hackathon Kickoff (zoom link TBD)
+- **9am - 9:15am** Hackathon Kickoff (https://moffitt.zoom.us/j/93563043887)
   - Introduce teams and projects
   - Time for questions
   - Break into teams and begin hacking
-- **9:30am - ??** Teams work on projects
+- **9:15am - ??** Teams work on projects
 
 ### Day 2 (Friday, December 11th, 2020)
 - **?? - 3pm** Teams continue working
-- **3pm - 4:30pm** Hackathon Wrap-up (zoom link TBD)
+- **3pm - 4:30pm** Hackathon Wrap-up (https://moffitt.zoom.us/j/99217816257)
   - Project demonstrations
   - Judges convene briefly to pick the winning project
   - Winners announced, prizes awarded
   - Meeting adjournment
-- **5pm - 6pm** Hackathon virtual happy hour (zoom link TBD)
+- **5pm - 6pm** Hackathon virtual happy hour (https://moffitt.zoom.us/j/99346940445)
   - Attendance is optional for hackathon participants
 
 ## Hackathon Organizing Committee
