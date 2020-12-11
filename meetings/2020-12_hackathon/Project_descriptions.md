@@ -27,13 +27,6 @@ Multiplex immunofluorescence (IF) microscopy combined with automated image analy
 
 **Programming background:** The development of the R shiny application will be done utilizing GitHub and git via Dr. Fridley’s GitHub page to ensure reproducibility and rigor. Dr. Fridley will be involved to provide an overview of the project and organization; Ms. Jordan Creed and Dr. Chris Wilson will work with participants in the development of the R Shiny application.  Participants will only need a basic knowledge of R/Rstudio and/or R Shiny.
 
-## Pipeline for Apple HealthKit data (Team Lead: Brian Gonzalez)
-Studies and clinical teams increasingly desire to pull Apple HealthKit data in order to collect patient-generated health data (PGHD). These data could be used to surveil for patients about to experience significant toxicity (e.g., by detecting a drop-off in number of steps taken per day), for monitoring change in PGHD after treatment, or for trials testing the efficacy of behavioral interventions. Pulling data from Apple HealthKit could help simplify data collection, as HealthKit could serve as a way to harmonize data from multiple sources (e.g., Fitbit, Garmin, Apple Watch) before they’re sent to Moffitt.
-
-**Technical specifications:** HealthKit data can be exported as an XML file and parsed into a human-readable format with libraries from most popular languages. 
-
-**Programming background:** No language is required, but experience in visualizing longitudinal data, programming with R, or working with cloud services (e.g. Google Cloud Platform) is a plus.
-
 ## Visualizing catchment area alignment with consent and biospecimen availability (Team Lead: Travis Gerke)
 Create an interactive web report that shows consent status (e.g. to TCC) and specimen availability by key demographic variables (e.g. aggregate counts by race/ethnicity, county of residence). Filters which highlight Moffitt’s key catchment area opportunities will be available. Aggregate counts will be curated from HRI backend database tables.
  
@@ -42,6 +35,13 @@ Impact: The final report will be accessible to Moffitt team members on the intra
 **Technical specifications:** R/SQL, Shiny, ggplotting of `sf` or similar R-based geography objects
 
 **Programming background:** Familiarity with R and R markdown/Shiny
+
+## Pipeline for Apple HealthKit data (Team Lead: Brian Gonzalez)
+Studies and clinical teams increasingly desire to pull Apple HealthKit data in order to collect patient-generated health data (PGHD). These data could be used to surveil for patients about to experience significant toxicity (e.g., by detecting a drop-off in number of steps taken per day), for monitoring change in PGHD after treatment, or for trials testing the efficacy of behavioral interventions. Pulling data from Apple HealthKit could help simplify data collection, as HealthKit could serve as a way to harmonize data from multiple sources (e.g., Fitbit, Garmin, Apple Watch) before they’re sent to Moffitt.
+
+**Technical specifications:** HealthKit data can be exported as an XML file and parsed into a human-readable format with libraries from most popular languages. 
+
+**Programming background:** No language is required, but experience in visualizing longitudinal data, programming with R, or working with cloud services (e.g. Google Cloud Platform) is a plus.
 
 ## Demo application for facilitated LIMS reporting (Team Lead: Fredrik Pettersson)
 The process for time reporting using the LIMS system is not very well suited for our daily workflow with room for improvement to increase efficiency, remove frustration and to provide transparency and overview. I propose a project to greatly facilitate reporting and interactive visualization of LIMS entries by design and implementation of an interactive web application with an associated API. The goal will be to develop a standalone and modular application for demonstrating a streamlined procedure to stakeholders. The application will be developed with future integration with CICPT and Labvantage in mind either as a microservice, reusable web components or through API. The most immediately useful functionality would be the ability to export data in .csv format for subsequent import to other systems.
