@@ -10,6 +10,24 @@ December 2020: Second Annual Hackathon
 
 January 2021: Scott Cukras (Docker/Singularity)
 
-February 2021: TBD
+February 2021: Brent Kuenzi (DrugCell)
 
 March 2021: TBD
+
+April 2021: TBD
+
+May 2021: TBD
+
+June 2021: TBD
+
+July 2021: TBD
+
+August 2021: TBD
+
+September 2021: TBD
+
+October 2021: TBD
+
+November 2021: TBD
+
+December 2021: TBD
