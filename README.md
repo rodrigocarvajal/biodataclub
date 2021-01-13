@@ -12,9 +12,9 @@ January 2021: Scott Cukras (Docker/Singularity)
 
 February 2021: Brent Kuenzi (DrugCell)
 
-March 2021: TBD
+March 2021: UHA (CodeOcean)
 
-April 2021: TBD
+April 2021: Jordan Creed (TBD)
 
 May 2021: TBD
 
