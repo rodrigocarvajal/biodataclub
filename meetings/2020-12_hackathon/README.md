@@ -1,5 +1,9 @@
 # December 2020: The Second Annual Bio-Data Club Hackathon
 
+## Winning Team
+
+Congratulations to Dr. Dung-Tsa Chen and team (Zachary Thompson, Jiannong Li, Ling Cen, Junmin Whiting, Wenyi Fan, Biwei Cao, Sandhya Prabhakaran, Ram Thapa, Mahrukh Naqvi) for their winning project 'Utilization of target lesion heterogeneity to assess treatment efficacy'!!!
+
 ## Hackathon Details
 
 Registration for the Bio-Data Club's Second Annual Hackathon is now open! Please register [with this form](https://forms.gle/4UQSkdTWGhwTV1cz7). The hackathon will commence  virtually on December 10th 2020 at 9am and conclude with virtual project presentations on December 11th at 3pm. A hackathon is an event in which participants come together to build a software product during a short period of time. [Here is a short article](https://www.rasmussen.edu/degrees/technology/blog/what-is-a-hackathon/) describing what you can expect. [Last year’s hackathon](https://github.com/pstew/biodataclub/tree/master/meetings/2019-12_hackathon) featured nearly 40 participants working collaboratively on 6 projects. Like last year, projects featured in this year's hackathon all have potential benefits for Moffitt. 
