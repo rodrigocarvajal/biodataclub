@@ -1,4 +1,4 @@
-# February 2021: DrugCell
+# February 2021: DrugCell (Lessons Learned from Visible Neural Networks)
 
 ## Presenter: [Brent Kuenzi](mailto:brentkuenzi@gmail.com)
 
