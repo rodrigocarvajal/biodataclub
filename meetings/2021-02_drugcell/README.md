@@ -24,6 +24,5 @@ The talk will then transition to the web application (DrugCell Oracle) and discu
 * Participants will need to download the pre-trained model to do the predictions themselves:
 http://drugcell.ucsd.edu/downloads/
 
-
-
 ### Materials
+* [Meeting recording](https://moffitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4e2f65fa-7876-4d96-a44d-acd4014ff2ac)

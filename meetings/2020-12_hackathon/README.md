@@ -65,3 +65,6 @@ The list of projects for this year's hackathon [can be found here](https://githu
 
 ## Hackathon Organizing Committee
 Anders Berglund, Rodrigo Carvajal, Jordan Creed, Guillermo Gonzalez-Calderon, Jose Laborde, Richie Reich, Paul Stewart
+
+## Files
+* [Recording](https://moffitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3793944e-9b80-462e-8e70-ac8e016e6b32)

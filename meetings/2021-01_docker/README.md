@@ -18,3 +18,6 @@ We will go over an introduction to what [Docker](https://www.docker.com/) is, fo
 ### Pre-Requisites
 
 For anyone that wants to join along please install Docker and they can pull down the git repo for the demos I will be running: https://gitlab.moffitt.usf.edu:8000/cukrassd/docker_demo .
+
+## Meeting files
+* [Meeting recording](https://moffitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dc59dd8c-5123-45bb-ae16-acb1014f71f6)
