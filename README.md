@@ -14,9 +14,9 @@ February 2021: Brent Kuenzi (DrugCell)
 
 March 2021: UHA (CodeOcean)
 
-April 2021: Jordan Creed (TBD)
+April 2021: Travis Gerke (TBD)
 
-May 2021: TBD
+May 2021: Jordan Creed (TBD)
 
 June 2021: TBD
 
