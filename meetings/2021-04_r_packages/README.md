@@ -16,4 +16,5 @@ programmers in their everyday tasks.
 * Basic knowledge of R and Rstudio
 
 ### Materials
-* 
+* Talk repository: https://github.com/tgerke/secret-tracks
+* Slides: https://tgerke.github.io/secret-tracks/
