@@ -18,7 +18,7 @@ April 2021: Travis Gerke (TBD)
 
 May 2021: Jordan Creed (TBD)
 
-June 2021: TBD
+June 2021: Prabhakar Chalise (Integrative unsupervised clustering with multiple omic datasets)
 
 July 2021: TBD
 
