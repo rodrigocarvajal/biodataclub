@@ -15,7 +15,7 @@ Integrative clustering is a powerful approach to identify latent subtype structu
 ### Pre-Requisites
 
 * A laptop with current version of R installed.
-* R packages interSIM and intNMF installed. 
+* R packages [interSIM](https://cran.rstudio.com/web/packages/InterSIM/index.html) and [intNMF](https://cran.r-project.org/web/packages/IntNMF/index.html) installed. 
 * Familiarity with R or any other programming experience would be a plus but not required. 
 
 ### Materials
