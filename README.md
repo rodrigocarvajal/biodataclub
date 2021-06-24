@@ -24,7 +24,7 @@ July 2021: TBD
 
 August 2021: TBD
 
-September 2021: TBD
+September 2021: Bob Gore (TBD)
 
 October 2021: TBD
 
