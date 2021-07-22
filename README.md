@@ -20,7 +20,7 @@ May 2021: Jordan Creed (TBD)
 
 June 2021: Prabhakar Chalise (Integrative unsupervised clustering with multiple omic datasets)
 
-July 2021: TBD
+July 2021: No meeting.
 
 August 2021: TBD
 
@@ -28,6 +28,6 @@ September 2021: Bob Gore (TBD)
 
 October 2021: TBD
 
-November 2021: TBD
+November 2021: Guillermo Gonzalez-Calderon
 
-December 2021: TBD
+December 2021: Hackathon!
