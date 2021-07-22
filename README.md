@@ -24,10 +24,10 @@ July 2021: No meeting.
 
 August 2021: TBD
 
-September 2021: Bob Gore (TBD)
+September 2021: Bob Gore (Introduction to Psychometrics)
 
-October 2021: TBD
+October 2021: Jose Laborde (Bayesian Moffitt Functions R Library)
 
-November 2021: Guillermo Gonzalez-Calderon
+November 2021: Guillermo Gonzalez-Calderon (Introduction to Testing) 
 
-December 2021: Hackathon!
+December 2021: 2021 Hackathon
