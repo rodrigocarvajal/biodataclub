@@ -31,3 +31,5 @@ October 2021: Jose Laborde (Bayesian Moffitt Functions R Library)
 November 2021: Guillermo Gonzalez-Calderon (Introduction to Testing) 
 
 December 2021: 2021 Hackathon
+
+January 2021: Chia-Ho Cheng (Introducton to Seurat)
