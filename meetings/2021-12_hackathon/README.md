@@ -2,15 +2,15 @@
 
 ## Hackathon Details
 
-Registration for the Bio-Data Club's Second Annual Hackathon will be open soon. The hackathon will commence  virtually on December 9th 2021 at 9am and conclude with virtual project presentations on December 11th at 3pm. A hackathon is an event in which participants come together to build a software product during a short period of time. [Here is a short article](https://www.rasmussen.edu/degrees/technology/blog/what-is-a-hackathon/) describing what you can expect. [Last year’s hackathon](https://github.com/pstew/biodataclub/tree/master/meetings/2020-12_hackathon) featured nearly 40 participants working collaboratively on 6 projects. Like last year, projects featured in this year's hackathon all have potential benefits for Moffitt. 
+Registration for the Bio-Data Club's Second Annual Hackathon will be open soon. The hackathon will commence  virtually on Thursday, December 9th 2021 at 9am and conclude with virtual project presentations on Friday, December 10th at 3pm. A hackathon is an event in which participants come together to build a software product during a short period of time. [Here is a short article](https://www.rasmussen.edu/degrees/technology/blog/what-is-a-hackathon/) describing what you can expect. [Last year’s hackathon](https://github.com/pstew/biodataclub/tree/master/meetings/2020-12_hackathon) featured nearly 40 participants working collaboratively on 6 projects. Like last year, projects featured in this year's hackathon all have potential benefits for Moffitt. 
 
 Participation is completely optional, and Moffitt employees are under no obligation to participate. However, this will be a fun event and we encourage everyone to sign up! The event will be very low stakes, and we encourage friendly competition between teams. The winning team will be awarded a small prize and bragging rights for the year. Since work on hackathon projects will occur during an intensive 1.5 day period, please make sure to obtain permission to participate from your supervisor or PI. 
 
 ## Registration
-Registration is required and will allow us to send hackathon-related communications and calendar/zoom invites. Please register [with this form](https://forms.gle/4UQSkdTWGhwTV1cz7) by Thursday, December 3rd 2020 (one week prior to the start of the hackathon) or you may not be able to participate. 
+Registration is required and will allow us to send hackathon-related communications and calendar/zoom invites. Please register [with this form](https://forms.gle/4UQSkdTWGhwTV1cz7) by Monday, December 6th 2021 (three days prior to the start of the hackathon) or you may not be able to participate. 
 
 ## Projects
-The list of projects for this year's hackathon [can be found here](https://github.com/pstew/biodataclub/blob/master/meetings/2020-12_hackathon/Project_descriptions.md). 
+The list of projects for this year's hackathon [can be found here](https://www.biodataclub.org/hackathon-2021-projects/). 
 
 ## Rules
 - Hackathon teams are organized around projects. 
@@ -22,10 +22,8 @@ The list of projects for this year's hackathon [can be found here](https://githu
 - A panel of judges (Drs. Peter Kanetsky, John Koomen, Dana Rollison, John Schatzle, AC Tan) will pick the winning project. 
 - The winning project will be judged by the following categories:
   - Reproducibility
-  - Impact on Moffitt
   - Usability
   - Scientific value
-- The winning team will be awarded a prize and bragging rights for the year.
 - No work (e.g. writing code, analyzing data) should be performed prior to the start of the hackathon
   - The addition of completely new features to existing code will be acceptable. 
 - Participants agree to follow the [code of conduct](https://github.com/pstew/biodataclub/blob/master/meetings/2021-12_hackathon/CoC/code_of_conduct.md).
@@ -56,7 +54,7 @@ The list of projects for this year's hackathon [can be found here](https://githu
   - Judges convene briefly to pick the winning project
   - Winners announced, prizes awarded
   - Meeting adjournment
-- **5pm - 6pm** Hackathon virtual happy hour (LINK TBD)
+- **5pm - 6pm** Hackathon happy hour at Dunderbak's (https://dunderbaksbeer.wordpress.com/)
   - Attendance is optional for hackathon participants
 
 ## Hackathon Organizing Committee
