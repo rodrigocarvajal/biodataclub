@@ -2,7 +2,7 @@
 
 ## Hackathon Details
 
-Registration for the Bio-Data Club's Second Annual Hackathon will be open soon. The hackathon will commence  virtually on Thursday, December 9th 2021 at 9am and conclude with virtual project presentations on Friday, December 10th at 3pm. A hackathon is an event in which participants come together to build a software product during a short period of time. [Here is a short article](https://www.rasmussen.edu/degrees/technology/blog/what-is-a-hackathon/) describing what you can expect. [Last year’s hackathon](https://github.com/pstew/biodataclub/tree/master/meetings/2020-12_hackathon) featured nearly 40 participants working collaboratively on 6 projects. Like last year, projects featured in this year's hackathon all have potential benefits for Moffitt. 
+Registration for the Bio-Data Club's Second Annual Hackathon will be open soon. The hackathon will commence  virtually on Thursday, December 9th 2021 at 9am and conclude with virtual project presentations on Friday, December 10th at 3pm. A hackathon is an event in which participants come together to build a software product during a short period of time. [Here is a short article](https://www.rasmussen.edu/degrees/technology/blog/what-is-a-hackathon/) describing what you can expect. [Last year’s hackathon](https://github.com/pstew/biodataclub/tree/master/meetings/2020-12_hackathon) featured 55 participants working collaboratively on 7 projects. 
 
 Participation is completely optional, and Moffitt employees are under no obligation to participate. However, this will be a fun event and we encourage everyone to sign up! The event will be very low stakes, and we encourage friendly competition between teams. The winning team will be awarded a small prize and bragging rights for the year. Since work on hackathon projects will occur during an intensive 1.5 day period, please make sure to obtain permission to participate from your supervisor or PI. 
 
@@ -29,7 +29,7 @@ The list of projects for this year's hackathon [can be found here](https://www.b
 - Participants agree to follow the [code of conduct](https://github.com/pstew/biodataclub/blob/master/meetings/2021-12_hackathon/CoC/code_of_conduct.md).
 
 ## Misc.
-- Participants will be matched with their team leader approximately one week before the start of the hackathon. Team leaders are highly encouraged to on-board team members at this point. This will give teams time to complete setup tasks (e.g. read background material, download data, install packages, etc.) so they can hit the ground running on the day of the hackathon. 
+- Participants will be matched with their team leader approximately three days before the start of the hackathon. Team leaders are highly encouraged to on-board team members at this point. This will give teams time to complete setup tasks (e.g. read background material, download data, install packages, etc.) so they can hit the ground running on the day of the hackathon. 
 - Some programming background in any language is recommended but not required. 
   - If you are not confident in your programming skills, then there may be non-programming tasks such as finding validation datasets, cleaning data, creating figures, or creating slides for the results presentation that will still allow you to participate. 
 - There are a number of tools to make collaboration during a virtual hackathon more easy. In no particular order:
