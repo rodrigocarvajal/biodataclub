@@ -7,7 +7,7 @@ Registration for the Bio-Data Club's Second Annual Hackathon [is now open](https
 Participation is completely optional, and Moffitt employees are under no obligation to participate. However, this will be a fun event and we encourage everyone to sign up! The event will be very low stakes, and we encourage friendly competition between teams. The winning team will be awarded a small prize and bragging rights for the year. Since work on hackathon projects will occur during an intensive 1.5 day period, please make sure to obtain permission to participate from your supervisor or PI. 
 
 ## Registration
-Registration is required and will allow us to send hackathon-related communications and calendar/zoom invites. Please register [with this form](https://forms.gle/4UQSkdTWGhwTV1cz7) by Monday, December 6th 2021 (three days prior to the start of the hackathon) or you may not be able to participate. 
+Registration is required and will allow us to send hackathon-related communications and calendar/zoom invites. Please register [with this form](https://forms.gle/4UQSkdTWGhwTV1cz7) by Monday, December 6th 2021 at 12pm or you may not be able to participate. 
 
 ## Projects
 The list of projects for this year's hackathon [can be found here](https://www.biodataclub.org/hackathon-2021-projects/). 
