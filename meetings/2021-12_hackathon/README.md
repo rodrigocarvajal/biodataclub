@@ -10,7 +10,7 @@ Participation is completely optional, and Moffitt employees are under no obligat
 Registration is required and will allow us to send hackathon-related communications and calendar/zoom invites. Please register [with this form](https://forms.gle/4UQSkdTWGhwTV1cz7) by Monday, December 6th 2021 at 12pm or you may not be able to participate. 
 
 ## Projects
-The list of projects for this year's hackathon [can be found here](https://www.biodataclub.org/hackathon-2021-projects/). 
+The list of projects for this year's hackathon [can be found here](https://github.com/pstew/biodataclub/blob/master/meetings/2021-12_hackathon/Project_descriptions.md). 
 
 ## Rules
 - Hackathon teams are organized around projects. 
